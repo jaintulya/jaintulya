@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Tulya%20Jain&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Future+Full-Stack+Developer;React+%7C+MongoDB+%7C+C%2B%2B;Building+Projects+Every+Day;Focused+on+Clean+Code+%26+Strong+Logic" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Future+Full-Stack+Developer;React+%7C+MongoDB+%7C+C%2B%2B;Building+Projects+Every+Day" />
 
 <br/>
 
@@ -12,16 +12,16 @@
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
 🎓 Computer Engineering Student from Gujarat, India  
-💻 Passionate about building responsive & pixel-perfect websites  
-🧠 Strong believer in fundamentals & logic building  
-🚀 Focused on long-term growth and real skill development  
+💻 Passionate about responsive & pixel-perfect web design  
+🧠 Strong focus on logic & fundamentals  
+🚀 Consistent learner building real-world projects  
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,react,mongodb,mysql,git,github,vscode,figma&perline=6" />
@@ -29,7 +29,7 @@
 
 ---
 
-# 🚀 Featured Website Clones
+## 🚀 Featured Website Clones
 
 ⭐ **[Prime Clone](https://prime-tulya.netlify.app)**  
 ⭐ **[Aarke Clone](https://aarke-tulya.netlify.app)**  
@@ -39,15 +39,15 @@
 
 ---
 
-# 💼 Currently Open For
+## 💼 Currently Open For
 
-- Frontend Internship Opportunities  
-- Web Development Projects  
-- Collaborative Learning Projects  
+• Frontend Internship  
+• Web Development Projects  
+• Learning Collaborations  
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -61,35 +61,11 @@
 
 ---
 
-# 🏆 Achievements
+## 📬 Contact Me
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jaintulya&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaintulya&theme=tokyonight" />
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/jaintulya">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/tulya-jain-b84827372/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-</div>
+📧 **tulya.jain.cg@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/tulya-jain-b84827372/)  
+💻 [GitHub](https://github.com/jaintulya)
 
 ---
 
