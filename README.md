@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:111111,100:1a1a1a&text=Tulya%20Jain&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:111111,100:1a1a1a&text=Tulya%20Jain&fontSize=36&fontColor=ffffff" />
 
 <br/>
 
@@ -14,17 +14,16 @@
 
 ---
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" width="100%" /> </div>
+<hr/>
 
 ## About
 
 Computer Engineering student from Gujarat, India.  
 Focused on structured design, performance and long-term skill growth.  
-Actively building real-world projects using strong fundamentals.
 
 ---
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" width="100%" /> </div>
+<hr/>
 
 ## Portfolio
 
@@ -38,7 +37,7 @@ Actively building real-world projects using strong fundamentals.
 
 ---
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" width="100%" /> </div>
+<hr/>
 
 # Featured Projects
 
@@ -53,7 +52,6 @@ Actively building real-world projects using strong fundamentals.
 
 ### Prime Clone  
 Recreated layout using **HTML & CSS**.  
-Focused on responsiveness and visual precision.  
 
 [Click to View](https://prime-tulya.netlify.app)
 
@@ -73,8 +71,7 @@ Focused on responsiveness and visual precision.
 <td width="50%">
 
 ### Aarke Clone  
-Clean product landing page recreation.  
-Built using structured HTML & CSS.  
+Clean landing page recreation using HTML & CSS.  
 
 [Click to View](https://aarke-tulya.netlify.app)
 
@@ -94,8 +91,7 @@ Built using structured HTML & CSS.
 <td width="50%">
 
 ### Bevel Clone  
-Brand-focused layout recreation.  
-Emphasis on spacing and typography accuracy.  
+Brand-focused structured layout.  
 
 [Click to View](https://bevel-tulya.netlify.app)
 
@@ -115,8 +111,7 @@ Emphasis on spacing and typography accuracy.
 <td width="50%">
 
 ### Puma Clone  
-E-commerce style UI recreation.  
-Designed using structured HTML & CSS techniques.  
+E-commerce UI recreation.  
 
 [Click to View](https://puma-tulya.netlify.app)
 
@@ -137,7 +132,6 @@ Designed using structured HTML & CSS techniques.
 
 ### CocaCola Clone  
 Brand landing page recreation.  
-Focused on layout balance and design accuracy.  
 
 [Click to View](https://cococola-tulya.netlify.app)
 
@@ -147,15 +141,11 @@ Focused on layout balance and design accuracy.
 
 ---
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" width="100%" /> </div>
+<hr/>
 
-## GitHub Overview
+## GitHub Activity
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaintulya&theme=github_dark" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=jaintulya&theme=dark" />
 
@@ -163,15 +153,7 @@ Focused on layout balance and design accuracy.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaintulya&theme=github-dark" />
 
-</div>
-
----
-
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" width="100%" /> </div>
-
-## Contribution Snake
-
-<div align="center">
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/jaintulya/jaintulya/output/github-contribution-grid-snake-dark.svg" />
 
@@ -179,26 +161,28 @@ Focused on layout balance and design accuracy.
 
 ---
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" width="100%" /> </div>
+<hr/>
 
 ## Contact
 
+<p align="center">
+<a href="https://www.linkedin.com/in/tulya-jain-b84827372/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/jaintulya">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&to=tulya.jain.cg@gmail.com">
+<img src="https://img.shields.io/badge/Send_Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tulya-jain-b84827372/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/jaintulya">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<a href="https://mail.google.com/mail/?view=cm&to=tulya.jain.cg@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/SEND_EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:000000,50:111111,100:1a1a1a" />
 
 </div>
