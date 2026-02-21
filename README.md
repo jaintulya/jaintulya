@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:111111,100:1a1a1a&text=Tulya%20Jain&fontSize=36&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000000,50:111111,100:1a1a1a&text=Tulya%20Jain&fontSize=36&fontColor=ffffff" />
 
 <br/>
 
@@ -8,36 +8,49 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jaintulya&style=flat&color=444444" />
+<img src="https://komarev.com/ghpvc/?username=jaintulya&style=flat&color=888888" />
 
 </div>
 
----
+<br/>
 
-<hr/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,50:E6C200,100:8B7500&height=2" width="100%"/>
+</div>
+
+<br/>
 
 ## About
 
 Computer Engineering student from Gujarat, India.  
 Focused on structured design, performance and long-term skill growth.  
+Building real-world projects with strong fundamentals.
 
----
+<br/>
 
-<hr/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,50:E6C200,100:8B7500&height=2" width="100%"/>
+</div>
+
+<br/>
 
 ## Portfolio
 
 <div align="center">
 
 <a href="https://portfolio-tulya.netlify.app/">
-<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </div>
 
----
+<br/>
 
-<hr/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,50:E6C200,100:8B7500&height=2" width="100%"/>
+</div>
+
+<br/>
 
 # Featured Projects
 
@@ -51,7 +64,8 @@ Focused on structured design, performance and long-term skill growth.
 <td width="50%">
 
 ### Prime Clone  
-Recreated layout using **HTML & CSS**.  
+Built using **HTML & CSS**.  
+Focused on layout precision and responsiveness.  
 
 [Click to View](https://prime-tulya.netlify.app)
 
@@ -71,7 +85,7 @@ Recreated layout using **HTML & CSS**.
 <td width="50%">
 
 ### Aarke Clone  
-Clean landing page recreation using HTML & CSS.  
+Clean landing page recreation.  
 
 [Click to View](https://aarke-tulya.netlify.app)
 
@@ -139,9 +153,13 @@ Brand landing page recreation.
 </tr>
 </table>
 
----
+<br/>
 
-<hr/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,50:E6C200,100:8B7500&height=2" width="100%"/>
+</div>
+
+<br/>
 
 ## GitHub Activity
 
@@ -159,27 +177,31 @@ Brand landing page recreation.
 
 </div>
 
----
+<br/>
 
-<hr/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,50:E6C200,100:8B7500&height=2" width="100%"/>
+</div>
+
+<br/>
 
 ## Contact
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tulya-jain-b84827372/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/jaintulya">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&to=tulya.jain.cg@gmail.com">
-<img src="https://img.shields.io/badge/Send_Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Send_Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
----
+<br/>
 
 <div align="center">
 
