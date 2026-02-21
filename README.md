@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" width="100%" /> </div>
 
 ## About
 
@@ -24,7 +24,7 @@ Actively building real-world projects using strong fundamentals.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" width="100%" /> </div>
 
 ## Portfolio
 
@@ -38,7 +38,7 @@ Actively building real-world projects using strong fundamentals.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" width="100%" /> </div>
 
 # Featured Projects
 
@@ -147,7 +147,7 @@ Focused on layout balance and design accuracy.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" width="100%" /> </div>
 
 ## GitHub Overview
 
@@ -167,7 +167,7 @@ Focused on layout balance and design accuracy.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" width="100%" /> </div>
 
 ## Contribution Snake
 
@@ -179,7 +179,7 @@ Focused on layout balance and design accuracy.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" width="100%" /> </div>
 
 ## Contact
 
@@ -189,7 +189,7 @@ Focused on layout balance and design accuracy.
 <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/jaintulya">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
@@ -197,15 +197,8 @@ Focused on layout balance and design accuracy.
 
 <br/><br/>
 
-📩 **Email:**  
-<a href="mailto:tulya.jain.cg@gmail.com">tulya.jain.cg@gmail.com</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:000000,50:111111,100:1a1a1a" />
+<a href="https://mail.google.com/mail/?view=cm&to=tulya.jain.cg@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/SEND_EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
