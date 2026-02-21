@@ -17,7 +17,29 @@
 🎓 Computer Engineering Student — Gujarat, India  
 💻 Passionate about responsive & pixel-perfect web design  
 🧠 Strong fundamentals & problem solving mindset  
-🚀 Focused on growth & consistency  
+🚀 Focused on growth, consistency & real-world projects  
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+<a href="https://portfolio-tulya.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Visit_Portfolio-Live-2c5364?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🎯 Core Focus
+
+• Frontend Development  
+• React Ecosystem  
+• API Integration  
+• UI/UX Precision  
+• Problem Solving in C++  
 
 ---
 
@@ -57,30 +79,37 @@
 
 ---
 
-## 💼 Currently Open For
+## 💼 Open To Opportunities
 
-✔ Frontend Internship  
-✔ Web Development Projects  
-✔ Collaboration  
+I am actively looking for:
+
+• Frontend Internship  
+• React Developer Internship  
+• Web Development Projects  
+• Remote Opportunities  
 
 ---
 
 ## 📊 GitHub Streak
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=jaintulya&theme=tokyonight" />
-
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaintulya&theme=tokyo-night" />
+</div>
 
+---
+
+## 🐍 Contribution Snake (Auto Updates Daily)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/jaintulya/jaintulya/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
@@ -109,6 +138,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027" />
 
-✨ Building skills. Building projects. Building future.
+✨ Building Skills. Building Projects. Building Future.
 
 </div>
