@@ -38,7 +38,7 @@ Building real-world projects with strong fundamentals.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,mysql,cpp,c,git,github,vscode,figma&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,nodejs,cpp,c,git,github,vscode,figma&perline=6" />
 
 </div>
 
