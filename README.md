@@ -34,6 +34,22 @@ Building real-world projects with strong fundamentals.
 
 <br/>
 
+## Technical Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,mysql,cpp,c,git,github,vscode,figma&perline=6" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,50:E6C200,100:8B7500&height=2" width="100%"/>
+</div>
+
+<br/>
+
 ## Portfolio
 
 <div align="center">
