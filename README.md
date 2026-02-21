@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Tulya%20Jain&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-<h3>Building modern, scalable and clean web experiences.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:111111,100:1a1a1a&text=Tulya%20Jain&fontSize=38&fontColor=ffffff" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jaintulya&style=flat&color=2C5364" />
+<p style="color:#aaaaaa;">Clean Code • Strong Fundamentals • Continuous Growth</p>
+
+<img src="https://komarev.com/ghpvc/?username=jaintulya&style=flat&color=444444" />
 
 </div>
 
@@ -15,7 +15,8 @@
 ## About
 
 Computer Engineering student from Gujarat, India.  
-Focused on strong fundamentals, clean code and continuous improvement.
+Focused on building modern, responsive and structured web experiences.  
+Strong emphasis on fundamentals, scalability and consistent improvement.
 
 ---
 
@@ -24,56 +25,129 @@ Focused on strong fundamentals, clean code and continuous improvement.
 <div align="center">
 
 <a href="https://portfolio-tulya.netlify.app/">
-<img src="https://img.shields.io/badge/View_Portfolio-2C5364?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## Technical Stack
-
-<div align="center">
-<br/>
-<img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,react,mongodb,mysql,git,github,vscode,figma&perline=6" />
-<br/>
-</div>
+# Featured Projects
 
 ---
 
-## Featured Projects
-
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
 <a href="https://prime-tulya.netlify.app">
-<img src="https://res.cloudinary.com/dob8kltpc/image/upload/v1770461010/prime-coverpic_uvsmt9.png" width="400" />
+<img src="https://res.cloudinary.com/dob8kltpc/image/upload/v1770461010/prime-coverpic_uvsmt9.png" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+</td>
+<td width="50%">
+
+### Prime Clone  
+Minimal UI recreation built using **HTML & CSS**.  
+Focus on layout precision and responsiveness.
+
+[Click to View](https://prime-tulya.netlify.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
 
 <a href="https://aarke-tulya.netlify.app">
-<img src="https://res.cloudinary.com/dob8kltpc/image/upload/v1770461065/aarke-cover_ghgd98.png" width="400" />
+<img src="https://res.cloudinary.com/dob8kltpc/image/upload/v1770461065/aarke-cover_ghgd98.png" />
 </a>
 
-<br/><br/>
+</td>
+<td width="50%">
+
+### Aarke Clone  
+Clean product-style landing page clone.  
+Built purely using **HTML & CSS**.
+
+[Click to View](https://aarke-tulya.netlify.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
 
 <a href="https://bevel-tulya.netlify.app">
-<img src="https://res.cloudinary.com/dob8kltpc/image/upload/v1770461010/bevel-cover_hqccgt.png" width="400" />
+<img src="https://res.cloudinary.com/dob8kltpc/image/upload/v1770461010/bevel-cover_hqccgt.png" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+</td>
+<td width="50%">
+
+### Bevel Clone  
+Structured brand-style layout recreation.  
+Emphasis on spacing and typography.
+
+[Click to View](https://bevel-tulya.netlify.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
 
 <a href="https://puma-tulya.netlify.app">
-<img src="https://res.cloudinary.com/dob8kltpc/image/upload/v1771660286/puma_gcg0om.png" width="400" />
+<img src="https://res.cloudinary.com/dob8kltpc/image/upload/v1771660286/puma_gcg0om.png" />
 </a>
 
-<br/><br/>
+</td>
+<td width="50%">
+
+### Puma Clone  
+Modern e-commerce style layout recreation.  
+Built using structured HTML & CSS techniques.
+
+[Click to View](https://puma-tulya.netlify.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
 
 <a href="https://cococola-tulya.netlify.app">
-<img src="https://res.cloudinary.com/dob8kltpc/image/upload/v1771660281/coco_fjmccr.png" width="400" />
+<img src="https://res.cloudinary.com/dob8kltpc/image/upload/v1771660281/coco_fjmccr.png" />
 </a>
 
-</div>
+</td>
+<td width="50%">
+
+### CocaCola Clone  
+Brand landing page recreation.  
+Focus on visual balance and design accuracy.
+
+[Click to View](https://cococola-tulya.netlify.app)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -81,15 +155,11 @@ Focused on strong fundamentals, clean code and continuous improvement.
 
 <div align="center">
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=jaintulya&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=jaintulya&theme=dark" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaintulya&theme=github-compact" />
-
-<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaintulya&theme=github-dark" />
 
 </div>
 
@@ -98,9 +168,9 @@ Focused on strong fundamentals, clean code and continuous improvement.
 ## Contribution Snake
 
 <div align="center">
-<br/>
+
 <img src="https://raw.githubusercontent.com/jaintulya/jaintulya/output/github-contribution-grid-snake-dark.svg" />
-<br/>
+
 </div>
 
 ---
@@ -110,19 +180,19 @@ Focused on strong fundamentals, clean code and continuous improvement.
 <div align="center">
 
 <a href="mailto:tulya.jain.cg@gmail.com">
-<img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/tulya-jain-b84827372/">
-<img src="https://img.shields.io/badge/LinkedIn-203A43?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/jaintulya">
-<img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -131,6 +201,6 @@ Focused on strong fundamentals, clean code and continuous improvement.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0F2027,50:203A43,100:2C5364" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:000000,50:111111,100:1a1a1a" />
 
 </div>
