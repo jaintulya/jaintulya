@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Tulya%20Jain&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Future+Full-Stack+Developer;React+%7C+MongoDB+%7C+C%2B%2B;Building+Projects+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Frontend+Focused+Developer;React+%7C+MongoDB+%7C+C%2B%2B;Building+Real+World+Projects" />
 
 <br/>
 
@@ -14,10 +14,10 @@
 
 ## 👋 About Me
 
-🎓 Computer Engineering Student from Gujarat, India  
+🎓 Computer Engineering Student — Gujarat, India  
 💻 Passionate about responsive & pixel-perfect web design  
-🧠 Strong focus on logic & fundamentals  
-🚀 Consistent learner building real-world projects  
+🧠 Strong fundamentals & problem solving mindset  
+🚀 Focused on growth & consistency  
 
 ---
 
@@ -31,31 +31,55 @@
 
 ## 🚀 Featured Website Clones
 
-⭐ **[Prime Clone](https://prime-tulya.netlify.app)**  
-⭐ **[Aarke Clone](https://aarke-tulya.netlify.app)**  
-⭐ **[Bevel Clone](https://bevel-tulya.netlify.app)**  
-⭐ **[Puma Clone](https://puma-tulya.netlify.app)**  
-⭐ **[Coca-Cola Clone](https://cococola-tulya.netlify.app)**  
+<div align="center">
+
+<a href="https://prime-tulya.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Prime_Clone-Open-2c5364?style=for-the-badge" />
+</a>
+
+<a href="https://aarke-tulya.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Aarke_Clone-Open-203a43?style=for-the-badge" />
+</a>
+
+<a href="https://bevel-tulya.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Bevel_Clone-Open-0f2027?style=for-the-badge" />
+</a>
+
+<a href="https://puma-tulya.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Puma_Clone-Open-2c5364?style=for-the-badge" />
+</a>
+
+<a href="https://cococola-tulya.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/CocaCola_Clone-Open-203a43?style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
 ## 💼 Currently Open For
 
-• Frontend Internship  
-• Web Development Projects  
-• Learning Collaborations  
+✔ Frontend Internship  
+✔ Web Development Projects  
+✔ Collaboration  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jaintulya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=jaintulya&theme=tokyonight" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaintulya&layout=compact&theme=tokyonight" height="170"/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=jaintulya&theme=tokyonight" height="170"/>
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaintulya&theme=tokyo-night" />
 
 </div>
 
@@ -63,9 +87,21 @@
 
 ## 📬 Contact Me
 
-📧 **tulya.jain.cg@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/tulya-jain-b84827372/)  
-💻 [GitHub](https://github.com/jaintulya)
+<div align="center">
+
+<a href="mailto:tulya.jain.cg@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-2c5364?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/tulya-jain-b84827372/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-203a43?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/jaintulya" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Profile-0f2027?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -73,6 +109,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027" />
 
-✨ Thanks for visiting — Let’s Build Something Meaningful.
+✨ Building skills. Building projects. Building future.
 
 </div>
