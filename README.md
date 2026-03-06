@@ -1,30 +1,8 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:141E30,50:243B55,100:000000&text=Tulya%20Jain&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2000&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences.;Focused+on+clean+architecture.;Learning.+Improving.+Evolving." />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=jaintulya&style=flat&color=888888" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,50:E6C200,100:8B7500&height=2" width="100%"/>
-</div>
-
-<br/>
-
 ## About
 
 <div align="center">
 
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-working-on-computer-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--coding-development-developer-programming-pack-design-illustrations-5077038.png" width="300"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" width="350"/>
 
 </div>
 
@@ -34,7 +12,7 @@
 ⚙️ Currently learning backend development with Node.js, Express, and MongoDB  
 🚀 Focused on building real-world projects and improving software fundamentals  
 🤖 Exploring AI tools to enhance productivity and development workflows  
-📚 Always learning new technologies and growing as a developer  
+📚 Always learning new technologies and growing as a developer
 
 <br/>
 
