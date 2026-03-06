@@ -22,9 +22,13 @@
 
 ## About
 
-Computer Engineering student from Gujarat, India.  
-Focused on structured design, performance and long-term skill growth.  
-Building real-world projects with strong fundamentals.
+👨‍💻 Computer Engineering student from Gujarat, India  
+🌐 Passionate about building modern web experiences and user interfaces  
+⚡ Skilled in frontend technologies like HTML, CSS, JavaScript, React, and Tailwind  
+⚙️ Currently learning backend development with Node.js, Express, and MongoDB  
+🚀 Focused on building real-world projects and improving software fundamentals  
+🤖 Exploring AI tools to enhance productivity and development workflows  
+📚 Always learning new technologies and growing as a developer  
 
 <br/>
 
@@ -38,25 +42,7 @@ Building real-world projects with strong fundamentals.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,nodejs,cpp,c,git,github,vscode,figma&perline=6" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,50:E6C200,100:8B7500&height=2" width="100%"/>
-</div>
-
-<br/>
-
-## Portfolio
-
-<div align="center">
-
-<a href="https://portfolio-tulya.netlify.app/">
-<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,cpp,c,git,github,vscode,figma,postman,npm,netlify,vercel&perline=6" />
 
 </div>
 
