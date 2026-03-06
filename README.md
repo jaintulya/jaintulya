@@ -32,6 +32,10 @@
 
 <br/>
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 - 🎓 &nbsp; Computer Engineering student from **Gujarat, India**
 - 💻 &nbsp; Passionate about building **modern web experiences** and clean UIs
 - 🌱 &nbsp; Currently mastering **Node.js · Express · MongoDB**
@@ -40,6 +44,15 @@
 - 💬 &nbsp; Ask me about **HTML · CSS · JavaScript · React · Tailwind**
 - 📬 &nbsp; Reach me at **tulya.jain.cg@gmail.com**
 - ⚡ &nbsp; Fun fact — I turn ☕ coffee into clean, working UIs
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-working-on-computer-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--coding-development-developer-programming-pack-design-illustrations-5077038.png" width="280"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
