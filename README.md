@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000000,50:111111,100:1a1a1a&text=Tulya%20Jain&fontSize=36&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:141E30,50:243B55,100:000000&text=Tulya%20Jain&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 <br/>
 
@@ -66,8 +66,10 @@
 <td width="50%">
 
 ### Prime Clone  
-Built using **HTML & CSS**.  
-Focused on layout precision and responsiveness.  
+
+Landing page inspired by the Prime Video interface.  
+Built using **HTML & CSS** focusing on layout structure and responsiveness.  
+Created to practice modern web layout and component alignment.
 
 [Click to View](https://prime-tulya.netlify.app)
 
@@ -87,7 +89,10 @@ Focused on layout precision and responsiveness.
 <td width="50%">
 
 ### Aarke Clone  
-Clean landing page recreation.  
+
+Minimal product landing page inspired by the Aarke website.  
+Built using **HTML & CSS** with emphasis on typography and clean layout design.  
+Focused on improving frontend layout structuring skills.
 
 [Click to View](https://aarke-tulya.netlify.app)
 
@@ -107,7 +112,10 @@ Clean landing page recreation.
 <td width="50%">
 
 ### Bevel Clone  
-Brand-focused structured layout.  
+
+Brand-inspired landing page recreation of the Bevel website.  
+Developed using **HTML & CSS** with attention to visual hierarchy.  
+Demonstrates clean UI implementation and structured layout design.
 
 [Click to View](https://bevel-tulya.netlify.app)
 
@@ -127,7 +135,10 @@ Brand-focused structured layout.
 <td width="50%">
 
 ### Puma Clone  
-E-commerce UI recreation.  
+
+E-commerce inspired interface based on the Puma brand website.  
+Built using **HTML & CSS** focusing on product layout and responsive structure.  
+Created to practice structured UI design.
 
 [Click to View](https://puma-tulya.netlify.app)
 
@@ -147,7 +158,10 @@ E-commerce UI recreation.
 <td width="50%">
 
 ### CocaCola Clone  
-Brand landing page recreation.  
+
+Landing page inspired by the Coca-Cola brand website.  
+Built using **HTML & CSS** with focus on bold visual sections.  
+Demonstrates clean modern landing page design.
 
 [Click to View](https://cococola-tulya.netlify.app)
 
@@ -207,6 +221,6 @@ Brand landing page recreation.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:000000,50:111111,100:1a1a1a" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:141E30,50:243B55,100:000000" />
 
 </div>
