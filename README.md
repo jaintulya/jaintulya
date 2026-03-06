@@ -1,180 +1,98 @@
-<div align="center">
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="50%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#0a0a0f"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="50%" style="stop-color:#e2e8f0"/>
+      <stop offset="100%" style="stop-color:#94a3b8"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00000000"/>
+      <stop offset="30%" style="stop-color:#38bdf8"/>
+      <stop offset="70%" style="stop-color:#818cf8"/>
+      <stop offset="100%" style="stop-color:#00000000"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,30:0a0a0a,60:111111,100:000000&text=TULYA%20JAIN&fontSize=60&fontColor=00ff88&animation=fadeIn&fontAlignY=45&stroke=00ff88&strokeWidth=1&desc=frontend%20dev%20%2F%2F%20gujarat%2C%20india&descSize=16&descColor=888888&descAlignY=65" />
+  <!-- Background -->
+  <rect width="900" height="280" fill="url(#bg)" rx="12"/>
 
-</div>
+  <!-- Grid lines subtle -->
+  <g opacity="0.04" stroke="#ffffff" stroke-width="0.5">
+    <line x1="0" y1="56" x2="900" y2="56"/>
+    <line x1="0" y1="112" x2="900" y2="112"/>
+    <line x1="0" y1="168" x2="900" y2="168"/>
+    <line x1="0" y1="224" x2="900" y2="224"/>
+    <line x1="180" y1="0" x2="180" y2="280"/>
+    <line x1="360" y1="0" x2="360" y2="280"/>
+    <line x1="540" y1="0" x2="540" y2="280"/>
+    <line x1="720" y1="0" x2="720" y2="280"/>
+  </g>
 
-<div align="center">
+  <!-- Glow orbs -->
+  <circle cx="180" cy="140" r="120" fill="#38bdf8" opacity="0.04"/>
+  <circle cx="720" cy="140" r="100" fill="#818cf8" opacity="0.05"/>
+  <circle cx="450" cy="140" r="160" fill="#0ea5e9" opacity="0.025"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=3000&color=00FF88&center=true&vCenter=true&width=620&lines=%3E_+initializing+tulya.dev...+%5BDONE%5D;%3E_+loading+skills...+html+css+js+react+%5BOK%5D;%3E_+status%3A+building+real+things+that+matter" />
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#lineGrad)" rx="1"/>
 
-</div>
+  <!-- Corner brackets -->
+  <g stroke="#38bdf8" stroke-width="1.5" fill="none" opacity="0.6">
+    <path d="M 20 20 L 20 8 L 32 8"/>
+    <path d="M 880 20 L 880 8 L 868 8"/>
+    <path d="M 20 260 L 20 272 L 32 272"/>
+    <path d="M 880 260 L 880 272 L 868 272"/>
+  </g>
 
-<br/>
+  <!-- Dot pattern right side -->
+  <g fill="#38bdf8" opacity="0.15">
+    <circle cx="800" cy="60" r="1.5"/>
+    <circle cx="820" cy="60" r="1.5"/>
+    <circle cx="840" cy="60" r="1.5"/>
+    <circle cx="800" cy="80" r="1.5"/>
+    <circle cx="820" cy="80" r="1.5"/>
+    <circle cx="840" cy="80" r="1.5"/>
+    <circle cx="800" cy="100" r="1.5"/>
+    <circle cx="820" cy="100" r="1.5"/>
+    <circle cx="840" cy="100" r="1.5"/>
+  </g>
 
-<div align="center">
+  <!-- Small tag top left -->
+  <text x="40" y="35" font-family="monospace" font-size="11" fill="#38bdf8" opacity="0.7" letter-spacing="3">PORTFOLIO.README</text>
 
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║  ████████╗██╗   ██╗██╗  ██╗   ██╗ █████╗            ║
-║     ██╔══╝██║   ██║██║  ╚██╗ ██╔╝██╔══██╗           ║
-║     ██║   ██║   ██║██║   ╚████╔╝ ███████║           ║
-║     ██║   ██║   ██║██║    ╚██╔╝  ██╔══██║           ║
-║     ██║   ╚██████╔╝███████╗██║   ██║  ██║           ║
-║     ╚═╝    ╚═════╝ ╚══════╝╚═╝   ╚═╝  ╚═╝           ║
-║                                                      ║
-║   computer engineering student  ·  web developer    ║
-║   gujarat, india   ·   building the frontend web    ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+  <!-- Main name -->
+  <text x="450" y="130" font-family="'Courier New', monospace" font-size="64" font-weight="900"
+    fill="url(#nameGrad)" text-anchor="middle" letter-spacing="12" filter="url(#softglow)">
+    TULYA
+  </text>
+  <text x="450" y="195" font-family="'Courier New', monospace" font-size="64" font-weight="900"
+    fill="url(#nameGrad)" text-anchor="middle" letter-spacing="12" filter="url(#softglow)">
+    JAIN
+  </text>
 
-</div>
+  <!-- Subtitle -->
+  <text x="450" y="235" font-family="monospace" font-size="13" fill="#64748b"
+    text-anchor="middle" letter-spacing="6">FRONTEND DEVELOPER · GUJARAT, INDIA</text>
 
-<br/>
+  <!-- Bottom accent line -->
+  <rect x="0" y="278" width="900" height="2" fill="url(#lineGrad)" rx="1"/>
 
----
-
-<div align="center">
-
-## `$ whoami`
-
-</div>
-
-```
-NAME      →  Tulya Jain
-ROLE      →  Frontend Developer  (backend: loading...)
-LOCATION  →  Gujarat, India 🇮🇳
-MISSION   →  Turn ideas into interfaces that feel alive
-CURRENT   →  Mastering Node.js · Express · MongoDB
-MINDSET   →  Ship it. Improve it. Ship it again.
-```
-
-<br/>
-
----
-
-<div align="center">
-
-## `$ ls ./skills`
-
-</div>
-
-<div align="center">
-
-**— FRONTEND —**
-
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-
-**— BACKEND (learning) —**
-
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248)
-
-**— TOOLS —**
-
-![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=ffffff)
-![VSCode](https://img.shields.io/badge/-VS_Code-000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-000?style=flat-square&logo=figma&logoColor=F24E1E)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=flat-square&logo=netlify&logoColor=00C7B7)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/-Postman-000?style=flat-square&logo=postman&logoColor=FF6C37)
-![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus&logoColor=00599C)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## `$ cat ./projects.log`
-
-</div>
-
-<br/>
-
-> **01 · PRIME CLONE** — streaming platform UI
-> `HTML` `CSS` · responsive layout · component alignment practice
-> 🔗 [prime-tulya.netlify.app](https://prime-tulya.netlify.app)
-
----
-
-> **02 · AARKE CLONE** — minimal product landing page
-> `HTML` `CSS` · sharp typography · whitespace-first design
-> 🔗 [aarke-tulya.netlify.app](https://aarke-tulya.netlify.app)
-
----
-
-> **03 · BEVEL CLONE** — brand recreation
-> `HTML` `CSS` · visual hierarchy · structured UI layout
-> 🔗 [bevel-tulya.netlify.app](https://bevel-tulya.netlify.app)
-
----
-
-> **04 · PUMA CLONE** — e-commerce interface
-> `HTML` `CSS` · product grid · responsive structure
-> 🔗 [puma-tulya.netlify.app](https://puma-tulya.netlify.app)
-
----
-
-> **05 · COCA-COLA CLONE** — bold brand landing page
-> `HTML` `CSS` · dramatic visuals · modern sectioning
-> 🔗 [cococola-tulya.netlify.app](https://cococola-tulya.netlify.app)
-
-<br/>
-
----
-
-<div align="center">
-
-## `$ git log --stats`
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=jaintulya&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=aaaaaa" />
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaintulya&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=aaaaaa" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=jaintulya&hide_border=true&background=0d0d0d&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" width="500"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaintulya&bg_color=0d0d0d&color=00ff88&line=00ff88&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## `$ ping tulya`
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://www.linkedin.com/in/tulya-jain-b84827372/)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/jaintulya)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/-Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:tulya.jain.cg@gmail.com)
-
-<br/>
-
-```
-available for  →  collabs · open source · cool projects
-response time  →  fast (probably)
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,50:0a0a0a,100:000000" />
-
-</div>
+  <!-- Animated pulse dot -->
+  <circle cx="450" cy="252" r="3" fill="#38bdf8">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
