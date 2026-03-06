@@ -1,98 +1,195 @@
-<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0a0f"/>
-      <stop offset="50%" style="stop-color:#0d1117"/>
-      <stop offset="100%" style="stop-color:#0a0a0f"/>
-    </linearGradient>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ffffff"/>
-      <stop offset="50%" style="stop-color:#e2e8f0"/>
-      <stop offset="100%" style="stop-color:#94a3b8"/>
-    </linearGradient>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00000000"/>
-      <stop offset="30%" style="stop-color:#38bdf8"/>
-      <stop offset="70%" style="stop-color:#818cf8"/>
-      <stop offset="100%" style="stop-color:#00000000"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="softglow">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
+<div align="center">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjI4MCIgdmlld0JveD0iMCAwIDkwMCAyODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzBhMGEwZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3R5bGU9InN0b3AtY29sb3I6IzBkMTExNyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMwYTBhMGYiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9Im5hbWVHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiNmZmZmZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0eWxlPSJzdG9wLWNvbG9yOiNlMmU4ZjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojOTRhM2I4Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lR3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMDAwMDAwMDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIzMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI3MCUiIHN0eWxlPSJzdG9wLWNvbG9yOiM4MThjZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMDAwMDAwMDAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93Ij4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNCIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZU1lcmdlPjxmZU1lcmdlTm9kZSBpbj0iYmx1ciIvPjxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPjwvZmVNZXJnZT4KICAgIDwvZmlsdGVyPgogICAgPGZpbHRlciBpZD0ic29mdGdsb3ciPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI4IiByZXN1bHQ9ImJsdXIiLz4KICAgICAgPGZlTWVyZ2U+PGZlTWVyZ2VOb2RlIGluPSJibHVyIi8+PGZlTWVyZ2VOb2RlIGluPSJTb3VyY2VHcmFwaGljIi8+PC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgoKICA8IS0tIEJhY2tncm91bmQgLS0+CiAgPHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSIyODAiIGZpbGw9InVybCgjYmcpIiByeD0iMTIiLz4KCiAgPCEtLSBHcmlkIGxpbmVzIHN1YnRsZSAtLT4KICA8ZyBvcGFjaXR5PSIwLjA0IiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMC41Ij4KICAgIDxsaW5lIHgxPSIwIiB5MT0iNTYiIHgyPSI5MDAiIHkyPSI1NiIvPgogICAgPGxpbmUgeDE9IjAiIHkxPSIxMTIiIHgyPSI5MDAiIHkyPSIxMTIiLz4KICAgIDxsaW5lIHgxPSIwIiB5MT0iMTY4IiB4Mj0iOTAwIiB5Mj0iMTY4Ii8+CiAgICA8bGluZSB4MT0iMCIgeTE9IjIyNCIgeDI9IjkwMCIgeTI9IjIyNCIvPgogICAgPGxpbmUgeDE9IjE4MCIgeTE9IjAiIHgyPSIxODAiIHkyPSIyODAiLz4KICAgIDxsaW5lIHgxPSIzNjAiIHkxPSIwIiB4Mj0iMzYwIiB5Mj0iMjgwIi8+CiAgICA8bGluZSB4MT0iNTQwIiB5MT0iMCIgeDI9IjU0MCIgeTI9IjI4MCIvPgogICAgPGxpbmUgeDE9IjcyMCIgeTE9IjAiIHgyPSI3MjAiIHkyPSIyODAiLz4KICA8L2c+CgogIDwhLS0gR2xvdyBvcmJzIC0tPgogIDxjaXJjbGUgY3g9IjE4MCIgY3k9IjE0MCIgcj0iMTIwIiBmaWxsPSIjMzhiZGY4IiBvcGFjaXR5PSIwLjA0Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMTQwIiByPSIxMDAiIGZpbGw9IiM4MThjZjgiIG9wYWNpdHk9IjAuMDUiLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSIxNDAiIHI9IjE2MCIgZmlsbD0iIzBlYTVlOSIgb3BhY2l0eT0iMC4wMjUiLz4KCiAgPCEtLSBUb3AgYWNjZW50IGxpbmUgLS0+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjkwMCIgaGVpZ2h0PSIyIiBmaWxsPSJ1cmwoI2xpbmVHcmFkKSIgcng9IjEiLz4KCiAgPCEtLSBDb3JuZXIgYnJhY2tldHMgLS0+CiAgPGcgc3Ryb2tlPSIjMzhiZGY4IiBzdHJva2Utd2lkdGg9IjEuNSIgZmlsbD0ibm9uZSIgb3BhY2l0eT0iMC42Ij4KICAgIDxwYXRoIGQ9Ik0gMjAgMjAgTCAyMCA4IEwgMzIgOCIvPgogICAgPHBhdGggZD0iTSA4ODAgMjAgTCA4ODAgOCBMIDg2OCA4Ii8+CiAgICA8cGF0aCBkPSJNIDIwIDI2MCBMIDIwIDI3MiBMIDMyIDI3MiIvPgogICAgPHBhdGggZD0iTSA4ODAgMjYwIEwgODgwIDI3MiBMIDg2OCAyNzIiLz4KICA8L2c+CgogIDwhLS0gRG90IHBhdHRlcm4gcmlnaHQgc2lkZSAtLT4KICA8ZyBmaWxsPSIjMzhiZGY4IiBvcGFjaXR5PSIwLjE1Ij4KICAgIDxjaXJjbGUgY3g9IjgwMCIgY3k9IjYwIiByPSIxLjUiLz4KICAgIDxjaXJjbGUgY3g9IjgyMCIgY3k9IjYwIiByPSIxLjUiLz4KICAgIDxjaXJjbGUgY3g9Ijg0MCIgY3k9IjYwIiByPSIxLjUiLz4KICAgIDxjaXJjbGUgY3g9IjgwMCIgY3k9IjgwIiByPSIxLjUiLz4KICAgIDxjaXJjbGUgY3g9IjgyMCIgY3k9IjgwIiByPSIxLjUiLz4KICAgIDxjaXJjbGUgY3g9Ijg0MCIgY3k9IjgwIiByPSIxLjUiLz4KICAgIDxjaXJjbGUgY3g9IjgwMCIgY3k9IjEwMCIgcj0iMS41Ii8+CiAgICA8Y2lyY2xlIGN4PSI4MjAiIGN5PSIxMDAiIHI9IjEuNSIvPgogICAgPGNpcmNsZSBjeD0iODQwIiBjeT0iMTAwIiByPSIxLjUiLz4KICA8L2c+CgogIDwhLS0gU21hbGwgdGFnIHRvcCBsZWZ0IC0tPgogIDx0ZXh0IHg9IjQwIiB5PSIzNSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzM4YmRmOCIgb3BhY2l0eT0iMC43IiBsZXR0ZXItc3BhY2luZz0iMyI+UE9SVEZPTElPLlJFQURNRTwvdGV4dD4KCiAgPCEtLSBNYWluIG5hbWUgLS0+CiAgPHRleHQgeD0iNDUwIiB5PSIxMzAiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iNjQiIGZvbnQtd2VpZ2h0PSI5MDAiCiAgICBmaWxsPSJ1cmwoI25hbWVHcmFkKSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjEyIiBmaWx0ZXI9InVybCgjc29mdGdsb3cpIj4KICAgIFRVTFlBCiAgPC90ZXh0PgogIDx0ZXh0IHg9IjQ1MCIgeT0iMTk1IiBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjY0IiBmb250LXdlaWdodD0iOTAwIgogICAgZmlsbD0idXJsKCNuYW1lR3JhZCkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIxMiIgZmlsdGVyPSJ1cmwoI3NvZnRnbG93KSI+CiAgICBKQUlOCiAgPC90ZXh0PgoKICA8IS0tIFN1YnRpdGxlIC0tPgogIDx0ZXh0IHg9IjQ1MCIgeT0iMjM1IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjNjQ3NDhiIgogICAgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjYiPkZST05URU5EIERFVkVMT1BFUiDCtyBHVUpBUkFULCBJTkRJQTwvdGV4dD4KCiAgPCEtLSBCb3R0b20gYWNjZW50IGxpbmUgLS0+CiAgPHJlY3QgeD0iMCIgeT0iMjc4IiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIiIGZpbGw9InVybCgjbGluZUdyYWQpIiByeD0iMSIvPgoKICA8IS0tIEFuaW1hdGVkIHB1bHNlIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSIyNTIiIHI9IjMiIGZpbGw9IiMzOGJkZjgiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIxOzAuMjsxIiBkdXI9IjJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iciIgdmFsdWVzPSIzOzU7MyIgZHVyPSIycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L2NpcmNsZT4KPC9zdmc+Cg==" width="900"/>
+</div>
 
-  <!-- Background -->
-  <rect width="900" height="280" fill="url(#bg)" rx="12"/>
+<br/>
 
-  <!-- Grid lines subtle -->
-  <g opacity="0.04" stroke="#ffffff" stroke-width="0.5">
-    <line x1="0" y1="56" x2="900" y2="56"/>
-    <line x1="0" y1="112" x2="900" y2="112"/>
-    <line x1="0" y1="168" x2="900" y2="168"/>
-    <line x1="0" y1="224" x2="900" y2="224"/>
-    <line x1="180" y1="0" x2="180" y2="280"/>
-    <line x1="360" y1="0" x2="360" y2="280"/>
-    <line x1="540" y1="0" x2="540" y2="280"/>
-    <line x1="720" y1="0" x2="720" y2="280"/>
-  </g>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=2500&color=38BDF8&center=true&vCenter=true&width=700&lines=crafting+interfaces+that+feel+alive...;html+·+css+·+javascript+·+react+·+tailwind;currently+mastering%3A+node+·+express+·+mongodb;open+to+collabs+%26+real+projects" alt="Typing SVG"/>
+</div>
 
-  <!-- Glow orbs -->
-  <circle cx="180" cy="140" r="120" fill="#38bdf8" opacity="0.04"/>
-  <circle cx="720" cy="140" r="100" fill="#818cf8" opacity="0.05"/>
-  <circle cx="450" cy="140" r="160" fill="#0ea5e9" opacity="0.025"/>
+<br/>
 
-  <!-- Top accent line -->
-  <rect x="0" y="0" width="900" height="2" fill="url(#lineGrad)" rx="1"/>
+<div align="center">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA5MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIyNSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM4MThjZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMyIgZmlsbD0idXJsKCNkKSIgcng9IjIiLz4KPC9zdmc+Cg==" width="900"/>
+</div>
 
-  <!-- Corner brackets -->
-  <g stroke="#38bdf8" stroke-width="1.5" fill="none" opacity="0.6">
-    <path d="M 20 20 L 20 8 L 32 8"/>
-    <path d="M 880 20 L 880 8 L 868 8"/>
-    <path d="M 20 260 L 20 272 L 32 272"/>
-    <path d="M 880 260 L 880 272 L 868 272"/>
-  </g>
+<br/>
 
-  <!-- Dot pattern right side -->
-  <g fill="#38bdf8" opacity="0.15">
-    <circle cx="800" cy="60" r="1.5"/>
-    <circle cx="820" cy="60" r="1.5"/>
-    <circle cx="840" cy="60" r="1.5"/>
-    <circle cx="800" cy="80" r="1.5"/>
-    <circle cx="820" cy="80" r="1.5"/>
-    <circle cx="840" cy="80" r="1.5"/>
-    <circle cx="800" cy="100" r="1.5"/>
-    <circle cx="820" cy="100" r="1.5"/>
-    <circle cx="840" cy="100" r="1.5"/>
-  </g>
+## ◈ &nbsp; A B O U T
 
-  <!-- Small tag top left -->
-  <text x="40" y="35" font-family="monospace" font-size="11" fill="#38bdf8" opacity="0.7" letter-spacing="3">PORTFOLIO.README</text>
+<table>
+<tr>
+<td width="55%">
 
-  <!-- Main name -->
-  <text x="450" y="130" font-family="'Courier New', monospace" font-size="64" font-weight="900"
-    fill="url(#nameGrad)" text-anchor="middle" letter-spacing="12" filter="url(#softglow)">
-    TULYA
-  </text>
-  <text x="450" y="195" font-family="'Courier New', monospace" font-size="64" font-weight="900"
-    fill="url(#nameGrad)" text-anchor="middle" letter-spacing="12" filter="url(#softglow)">
-    JAIN
-  </text>
+I'm a **Computer Engineering student** from Gujarat, India — obsessed with the visual side of the web.
 
-  <!-- Subtitle -->
-  <text x="450" y="235" font-family="monospace" font-size="13" fill="#64748b"
-    text-anchor="middle" letter-spacing="6">FRONTEND DEVELOPER · GUJARAT, INDIA</text>
+I build interfaces that are fast, clean, and actually feel good to use. Currently expanding from pure frontend into full-stack with Node, Express, and MongoDB.
 
-  <!-- Bottom accent line -->
-  <rect x="0" y="278" width="900" height="2" fill="url(#lineGrad)" rx="1"/>
+Every project I ship teaches me something new. That's the whole point.
 
-  <!-- Animated pulse dot -->
-  <circle cx="450" cy="252" r="3" fill="#38bdf8">
-    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
-  </circle>
-</svg>
+- 🎯 &nbsp; **Focus** — Frontend engineering & clean UI
+- 🌱 &nbsp; **Learning** — Node.js · Express · MongoDB
+- 🤖 &nbsp; **Exploring** — AI tooling & automation
+- 💬 &nbsp; **Ask me about** — HTML/CSS/JS/React/Tailwind
+- 📬 &nbsp; **Reach me** — tulya.jain.cg@gmail.com
+
+</td>
+<td width="45%" align="center">
+
+```
+  status   →  building
+  mood     →  focused
+  music    →  lo-fi beats
+  coffee   →  yes, always
+  bugs     →  currently fixing
+  commits  →  daily
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA5MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIyNSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM4MThjZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMyIgZmlsbD0idXJsKCNkKSIgcng9IjIiLz4KPC9zdmc+Cg==" width="900"/>
+</div>
+
+<br/>
+
+## ◈ &nbsp; T E C H &nbsp; S T A C K
+
+<div align="center">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjEyMCIgdmlld0JveD0iMCAwIDkwMCAxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnMiIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMGQxMTE3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzBhMGEwZiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSIxMjAiIGZpbGw9InVybCgjYmcyKSIgcng9IjEwIi8+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjkwMCIgaGVpZ2h0PSIxIiBmaWxsPSIjMWUyOTNiIi8+CiAgPHJlY3QgeD0iMCIgeT0iMTE5IiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjEiIGZpbGw9IiMxZTI5M2IiLz4KCiAgPCEtLSBTZWN0aW9uIGxhYmVsIC0tPgogIDx0ZXh0IHg9IjQ1MCIgeT0iMjgiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiMzOGJkZjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSI1IiBvcGFjaXR5PSIwLjgiPlRFQ0ggwrcgU1RBQ0s8L3RleHQ+CgogIDwhLS0gRnJvbnRlbmQgbGFiZWwgLS0+CiAgPHRleHQgeD0iMTYwIiB5PSI1NSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI5IiBmaWxsPSIjNjQ3NDhiIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+RlJPTlRFTkQ8L3RleHQ+CiAgPHJlY3QgeD0iMzAiIHk9IjYwIiB3aWR0aD0iMjYwIiBoZWlnaHQ9IjEiIGZpbGw9IiMxZTI5M2IiLz4KCiAgPCEtLSBTa2lsbCBwaWxscyBmcm9udGVuZCAtLT4KICA8ZyBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjExIiBmaWxsPSIjZTJlOGYwIj4KICAgIDxyZWN0IHg9IjMwIiB5PSI2OCIgd2lkdGg9IjU1IiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0iIzFlMjkzYiIgc3Ryb2tlPSIjRTM0RjI2IiBzdHJva2Utd2lkdGg9IjAuNSIvPgogICAgPHRleHQgeD0iNTciIHk9IjgzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjRTM0RjI2Ij5IVE1MPC90ZXh0PgoKICAgIDxyZWN0IHg9Ijk1IiB5PSI2OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0iIzFlMjkzYiIgc3Ryb2tlPSIjMTU3MkI2IiBzdHJva2Utd2lkdGg9IjAuNSIvPgogICAgPHRleHQgeD0iMTE5IiB5PSI4MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzE1NzJCNiI+Q1NTPC90ZXh0PgoKICAgIDxyZWN0IHg9IjE1MyIgeT0iNjgiIHdpZHRoPSI1MCIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9IiMxZTI5M2IiIHN0cm9rZT0iI0Y3REYxRSIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICAgIDx0ZXh0IHg9IjE3OCIgeT0iODMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNGN0RGMUUiPkpTPC90ZXh0PgoKICAgIDxyZWN0IHg9IjIxMyIgeT0iNjgiIHdpZHRoPSI1NSIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9IiMxZTI5M2IiIHN0cm9rZT0iIzYxREFGQiIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICAgIDx0ZXh0IHg9IjI0MCIgeT0iODMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM2MURBRkIiPlJlYWN0PC90ZXh0PgoKICAgIDxyZWN0IHg9IjI3OCIgeT0iNjgiIHdpZHRoPSI2MiIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9IiMxZTI5M2IiIHN0cm9rZT0iIzM4QkRGOCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICAgIDx0ZXh0IHg9IjMwOSIgeT0iODMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMzOEJERjgiPlRhaWx3aW5kPC90ZXh0PgogIDwvZz4KCiAgPCEtLSBCYWNrZW5kIGxhYmVsIC0tPgogIDx0ZXh0IHg9IjUyMCIgeT0iNTUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzY0NzQ4YiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPkJBQ0tFTkQ8L3RleHQ+CiAgPHJlY3QgeD0iMzcwIiB5PSI2MCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIxIiBmaWxsPSIjMWUyOTNiIi8+CgogIDxnIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTEiPgogICAgPHJlY3QgeD0iMzcwIiB5PSI2OCIgd2lkdGg9IjY1IiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0iIzFlMjkzYiIgc3Ryb2tlPSIjMzM5OTMzIiBzdHJva2Utd2lkdGg9IjAuNSIvPgogICAgPHRleHQgeD0iNDAyIiB5PSI4MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzMzOTkzMyI+Tm9kZS5qczwvdGV4dD4KCiAgICA8cmVjdCB4PSI0NDUiIHk9IjY4IiB3aWR0aD0iNjUiIGhlaWdodD0iMjIiIHJ4PSI0IiBmaWxsPSIjMWUyOTNiIiBzdHJva2U9IiM4ODg4ODgiIHN0cm9rZS13aWR0aD0iMC41Ii8+CiAgICA8dGV4dCB4PSI0NzciIHk9IjgzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjODg4ODg4Ij5FeHByZXNzPC90ZXh0PgoKICAgIDxyZWN0IHg9IjUyMCIgeT0iNjgiIHdpZHRoPSI3MCIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9IiMxZTI5M2IiIHN0cm9rZT0iIzQ3QTI0OCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICAgIDx0ZXh0IHg9IjU1NSIgeT0iODMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM0N0EyNDgiPk1vbmdvREI8L3RleHQ+CiAgPC9nPgoKICA8IS0tIFRvb2xzIGxhYmVsIC0tPgogIDx0ZXh0IHg9Ijc3NSIgeT0iNTUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzY0NzQ4YiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlRPT0xTPC90ZXh0PgogIDxyZWN0IHg9IjY5MCIgeT0iNjAiIHdpZHRoPSIxODUiIGhlaWdodD0iMSIgZmlsbD0iIzFlMjkzYiIvPgoKICA8ZyBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjExIj4KICAgIDxyZWN0IHg9IjY5MCIgeT0iNjgiIHdpZHRoPSI0NSIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9IiMxZTI5M2IiIHN0cm9rZT0iI0YwNTAzMiIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICAgIDx0ZXh0IHg9IjcxMiIgeT0iODMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNGMDUwMzIiPkdpdDwvdGV4dD4KCiAgICA8cmVjdCB4PSI3NDUiIHk9IjY4IiB3aWR0aD0iNjAiIGhlaWdodD0iMjIiIHJ4PSI0IiBmaWxsPSIjMWUyOTNiIiBzdHJva2U9IiMwMDdBQ0MiIHN0cm9rZS13aWR0aD0iMC41Ii8+CiAgICA8dGV4dCB4PSI3NzUiIHk9IjgzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjMDA3QUNDIj5WU0NvZGU8L3RleHQ+CgogICAgPHJlY3QgeD0iODE1IiB5PSI2OCIgd2lkdGg9IjU1IiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0iIzFlMjkzYiIgc3Ryb2tlPSIjRjI0RTFFIiBzdHJva2Utd2lkdGg9IjAuNSIvPgogICAgPHRleHQgeD0iODQyIiB5PSI4MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI0YyNEUxRSI+RmlnbWE8L3RleHQ+CiAgPC9nPgo8L3N2Zz4K" width="900"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA5MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIyNSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM4MThjZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMyIgZmlsbD0idXJsKCNkKSIgcng9IjIiLz4KPC9zdmc+Cg==" width="900"/>
+</div>
+
+<br/>
+
+## ◈ &nbsp; P R O J E C T S
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ▸ &nbsp;Prime Clone
+Streaming platform interface recreation. Deep dive into responsive layout systems and visual component structure.
+
+**Stack** &nbsp;·&nbsp; `HTML` `CSS`  
+**Focus** &nbsp;·&nbsp; Layout · Responsiveness  
+**→** &nbsp;[prime-tulya.netlify.app](https://prime-tulya.netlify.app)
+
+</td>
+<td width="50%" valign="top">
+
+### ▸ &nbsp;Aarke Clone
+Minimal product landing page with sharp typographic control and generous negative space.
+
+**Stack** &nbsp;·&nbsp; `HTML` `CSS`  
+**Focus** &nbsp;·&nbsp; Typography · Whitespace  
+**→** &nbsp;[aarke-tulya.netlify.app](https://aarke-tulya.netlify.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ▸ &nbsp;Bevel Clone
+Brand identity recreation with strong visual hierarchy and structured layout architecture.
+
+**Stack** &nbsp;·&nbsp; `HTML` `CSS`  
+**Focus** &nbsp;·&nbsp; Visual Hierarchy · Structure  
+**→** &nbsp;[bevel-tulya.netlify.app](https://bevel-tulya.netlify.app)
+
+</td>
+<td width="50%" valign="top">
+
+### ▸ &nbsp;Puma Clone
+E-commerce product interface with grid-based layout and responsive design patterns.
+
+**Stack** &nbsp;·&nbsp; `HTML` `CSS`  
+**Focus** &nbsp;·&nbsp; Product Grid · Responsive  
+**→** &nbsp;[puma-tulya.netlify.app](https://puma-tulya.netlify.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ▸ &nbsp;Coca-Cola Clone
+Bold brand landing page with dramatic visual sections and high-impact design choices.
+
+**Stack** &nbsp;·&nbsp; `HTML` `CSS`  
+**Focus** &nbsp;·&nbsp; Bold Visuals · Branding  
+**→** &nbsp;[cococola-tulya.netlify.app](https://cococola-tulya.netlify.app)
+
+</td>
+<td width="50%" valign="top">
+
+### ▸ &nbsp;More Coming...
+Currently building full-stack projects with React + Node + MongoDB.
+
+**Status** &nbsp;·&nbsp; `In Progress`  
+**ETA** &nbsp;·&nbsp; Soon™
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA5MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIyNSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM4MThjZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMyIgZmlsbD0idXJsKCNkKSIgcng9IjIiLz4KPC9zdmc+Cg==" width="900"/>
+</div>
+
+<br/>
+
+## ◈ &nbsp; G I T H U B &nbsp; S T A T S
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaintulya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&hide=contribs" height="165" alt="stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaintulya&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="165" alt="langs"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=jaintulya&hide_border=true&background=0d1117&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&sideLabels=64748b&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA5MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIyNSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM4MThjZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMyIgZmlsbD0idXJsKCNkKSIgcng9IjIiLz4KPC9zdmc+Cg==" width="900"/>
+</div>
+
+<br/>
+
+## ◈ &nbsp; C O N T A C T
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0d1117)](https://www.linkedin.com/in/tulya-jain-b84827372/)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0d1117)](https://github.com/jaintulya)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=0d1117)](mailto:tulya.jain.cg@gmail.com)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=3000&color=475569&center=true&vCenter=true&width=500&lines=thanks+for+visiting+%2F%2F+let%27s+build+something" alt="footer"/>
+
+</div>
+
+<br/>
