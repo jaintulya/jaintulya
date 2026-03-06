@@ -22,6 +22,12 @@
 
 ## About
 
+<div align="center">
+
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-working-on-computer-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--coding-development-developer-programming-pack-design-illustrations-5077038.png" width="300"/>
+
+</div>
+
 👨‍💻 Computer Engineering student from Gujarat, India  
 🌐 Passionate about building modern web experiences and user interfaces  
 ⚡ Skilled in frontend technologies like HTML, CSS, JavaScript, React, and Tailwind  
@@ -38,11 +44,33 @@
 
 <br/>
 
-## Technical Skills
+# Technical Skills
+
+## Frontend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,cpp,c,git,github,vscode,figma,postman,npm,netlify,vercel&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+</div>
+
+<br/>
+
+## Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+</div>
+
+<br/>
+
+## Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,netlify,vercel,cpp,c" />
 
 </div>
 
