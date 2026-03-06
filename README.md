@@ -48,7 +48,7 @@
 </td>
 <td valign="top" width="45%" align="center">
 
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-working-on-computer-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--coding-development-developer-programming-pack-design-illustrations-5077038.png" width="280"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
 
 </td>
 </tr>
