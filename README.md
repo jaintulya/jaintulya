@@ -185,6 +185,35 @@ Bold brand page with dramatic visual sections and high-impact color usage.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,49:38BDF8,51:818CF8,100:0d1117&height=1"/>
 
+## 💡 &nbsp; Dev Quote
+
+<br/>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,49:38BDF8,51:818CF8,100:0d1117&height=1"/>
+
+<br/>
+
+## ⏱️ &nbsp; WakaTime Coding Stats
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jaintulya&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&layout=compact&langs_count=8" width="100%"/>
+
+</div>
+
+<br/>
+
+
 <br/>
 
 ## 🐍 &nbsp; Contribution Snake
