@@ -1,50 +1,58 @@
 <div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjI4MCIgdmlld0JveD0iMCAwIDkwMCAyODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzBhMGEwZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3R5bGU9InN0b3AtY29sb3I6IzBkMTExNyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMwYTBhMGYiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9Im5hbWVHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiNmZmZmZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0eWxlPSJzdG9wLWNvbG9yOiNlMmU4ZjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojOTRhM2I4Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lR3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMDAwMDAwMDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIzMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI3MCUiIHN0eWxlPSJzdG9wLWNvbG9yOiM4MThjZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMDAwMDAwMDAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93Ij4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNCIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZU1lcmdlPjxmZU1lcmdlTm9kZSBpbj0iYmx1ciIvPjxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPjwvZmVNZXJnZT4KICAgIDwvZmlsdGVyPgogICAgPGZpbHRlciBpZD0ic29mdGdsb3ciPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI4IiByZXN1bHQ9ImJsdXIiLz4KICAgICAgPGZlTWVyZ2U+PGZlTWVyZ2VOb2RlIGluPSJibHVyIi8+PGZlTWVyZ2VOb2RlIGluPSJTb3VyY2VHcmFwaGljIi8+PC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgoKICA8IS0tIEJhY2tncm91bmQgLS0+CiAgPHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSIyODAiIGZpbGw9InVybCgjYmcpIiByeD0iMTIiLz4KCiAgPCEtLSBHcmlkIGxpbmVzIHN1YnRsZSAtLT4KICA8ZyBvcGFjaXR5PSIwLjA0IiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMC41Ij4KICAgIDxsaW5lIHgxPSIwIiB5MT0iNTYiIHgyPSI5MDAiIHkyPSI1NiIvPgogICAgPGxpbmUgeDE9IjAiIHkxPSIxMTIiIHgyPSI5MDAiIHkyPSIxMTIiLz4KICAgIDxsaW5lIHgxPSIwIiB5MT0iMTY4IiB4Mj0iOTAwIiB5Mj0iMTY4Ii8+CiAgICA8bGluZSB4MT0iMCIgeTE9IjIyNCIgeDI9IjkwMCIgeTI9IjIyNCIvPgogICAgPGxpbmUgeDE9IjE4MCIgeTE9IjAiIHgyPSIxODAiIHkyPSIyODAiLz4KICAgIDxsaW5lIHgxPSIzNjAiIHkxPSIwIiB4Mj0iMzYwIiB5Mj0iMjgwIi8+CiAgICA8bGluZSB4MT0iNTQwIiB5MT0iMCIgeDI9IjU0MCIgeTI9IjI4MCIvPgogICAgPGxpbmUgeDE9IjcyMCIgeTE9IjAiIHgyPSI3MjAiIHkyPSIyODAiLz4KICA8L2c+CgogIDwhLS0gR2xvdyBvcmJzIC0tPgogIDxjaXJjbGUgY3g9IjE4MCIgY3k9IjE0MCIgcj0iMTIwIiBmaWxsPSIjMzhiZGY4IiBvcGFjaXR5PSIwLjA0Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMTQwIiByPSIxMDAiIGZpbGw9IiM4MThjZjgiIG9wYWNpdHk9IjAuMDUiLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSIxNDAiIHI9IjE2MCIgZmlsbD0iIzBlYTVlOSIgb3BhY2l0eT0iMC4wMjUiLz4KCiAgPCEtLSBUb3AgYWNjZW50IGxpbmUgLS0+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjkwMCIgaGVpZ2h0PSIyIiBmaWxsPSJ1cmwoI2xpbmVHcmFkKSIgcng9IjEiLz4KCiAgPCEtLSBDb3JuZXIgYnJhY2tldHMgLS0+CiAgPGcgc3Ryb2tlPSIjMzhiZGY4IiBzdHJva2Utd2lkdGg9IjEuNSIgZmlsbD0ibm9uZSIgb3BhY2l0eT0iMC42Ij4KICAgIDxwYXRoIGQ9Ik0gMjAgMjAgTCAyMCA4IEwgMzIgOCIvPgogICAgPHBhdGggZD0iTSA4ODAgMjAgTCA4ODAgOCBMIDg2OCA4Ii8+CiAgICA8cGF0aCBkPSJNIDIwIDI2MCBMIDIwIDI3MiBMIDMyIDI3MiIvPgogICAgPHBhdGggZD0iTSA4ODAgMjYwIEwgODgwIDI3MiBMIDg2OCAyNzIiLz4KICA8L2c+CgogIDwhLS0gRG90IHBhdHRlcm4gcmlnaHQgc2lkZSAtLT4KICA8ZyBmaWxsPSIjMzhiZGY4IiBvcGFjaXR5PSIwLjE1Ij4KICAgIDxjaXJjbGUgY3g9IjgwMCIgY3k9IjYwIiByPSIxLjUiLz4KICAgIDxjaXJjbGUgY3g9IjgyMCIgY3k9IjYwIiByPSIxLjUiLz4KICAgIDxjaXJjbGUgY3g9Ijg0MCIgY3k9IjYwIiByPSIxLjUiLz4KICAgIDxjaXJjbGUgY3g9IjgwMCIgY3k9IjgwIiByPSIxLjUiLz4KICAgIDxjaXJjbGUgY3g9IjgyMCIgY3k9IjgwIiByPSIxLjUiLz4KICAgIDxjaXJjbGUgY3g9Ijg0MCIgY3k9IjgwIiByPSIxLjUiLz4KICAgIDxjaXJjbGUgY3g9IjgwMCIgY3k9IjEwMCIgcj0iMS41Ii8+CiAgICA8Y2lyY2xlIGN4PSI4MjAiIGN5PSIxMDAiIHI9IjEuNSIvPgogICAgPGNpcmNsZSBjeD0iODQwIiBjeT0iMTAwIiByPSIxLjUiLz4KICA8L2c+CgogIDwhLS0gU21hbGwgdGFnIHRvcCBsZWZ0IC0tPgogIDx0ZXh0IHg9IjQwIiB5PSIzNSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzM4YmRmOCIgb3BhY2l0eT0iMC43IiBsZXR0ZXItc3BhY2luZz0iMyI+UE9SVEZPTElPLlJFQURNRTwvdGV4dD4KCiAgPCEtLSBNYWluIG5hbWUgLS0+CiAgPHRleHQgeD0iNDUwIiB5PSIxMzAiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iNjQiIGZvbnQtd2VpZ2h0PSI5MDAiCiAgICBmaWxsPSJ1cmwoI25hbWVHcmFkKSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjEyIiBmaWx0ZXI9InVybCgjc29mdGdsb3cpIj4KICAgIFRVTFlBCiAgPC90ZXh0PgogIDx0ZXh0IHg9IjQ1MCIgeT0iMTk1IiBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjY0IiBmb250LXdlaWdodD0iOTAwIgogICAgZmlsbD0idXJsKCNuYW1lR3JhZCkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIxMiIgZmlsdGVyPSJ1cmwoI3NvZnRnbG93KSI+CiAgICBKQUlOCiAgPC90ZXh0PgoKICA8IS0tIFN1YnRpdGxlIC0tPgogIDx0ZXh0IHg9IjQ1MCIgeT0iMjM1IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjNjQ3NDhiIgogICAgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjYiPkZST05URU5EIERFVkVMT1BFUiDCtyBHVUpBUkFULCBJTkRJQTwvdGV4dD4KCiAgPCEtLSBCb3R0b20gYWNjZW50IGxpbmUgLS0+CiAgPHJlY3QgeD0iMCIgeT0iMjc4IiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIiIGZpbGw9InVybCgjbGluZUdyYWQpIiByeD0iMSIvPgoKICA8IS0tIEFuaW1hdGVkIHB1bHNlIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSIyNTIiIHI9IjMiIGZpbGw9IiMzOGJkZjgiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIxOzAuMjsxIiBkdXI9IjJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iciIgdmFsdWVzPSIzOzU7MyIgZHVyPSIycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L2NpcmNsZT4KPC9zdmc+Cg==" width="900"/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,50:161b27,100:0d1117&text=Tulya%20Jain&fontSize=72&fontColor=E2E8F0&animation=fadeIn&fontAlignY=50&stroke=38BDF8&strokeWidth=2&desc=Frontend%20Developer%20%E2%80%A2%20Gujarat%2C%20India&descSize=17&descColor=64748B&descAlignY=70" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=2500&color=38BDF8&center=true&vCenter=true&width=650&lines=Crafting+interfaces+that+feel+alive+%E2%9C%A6;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Tailwind;Currently+mastering%3A+Node.js+%C2%B7+Express+%C2%B7+MongoDB;Open+to+collabs+%26+real+world+projects" width="650"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=2500&color=38BDF8&center=true&vCenter=true&width=700&lines=crafting+interfaces+that+feel+alive...;html+·+css+·+javascript+·+react+·+tailwind;currently+mastering%3A+node+·+express+·+mongodb;open+to+collabs+%26+real+projects" alt="Typing SVG"/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=jaintulya&style=flat-square&color=38bdf8&label=profile+views)](https://github.com/jaintulya)
+&nbsp;·&nbsp;
+[![GitHub](https://img.shields.io/github/followers/jaintulya?style=flat-square&color=38bdf8&label=followers&logo=github)](https://github.com/jaintulya)
+
 </div>
 
 <br/>
 
-<div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA5MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIyNSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM4MThjZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMyIgZmlsbD0idXJsKCNkKSIgcng9IjIiLz4KPC9zdmc+Cg==" width="900"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:818CF8,100:38BDF8&height=2" width="100%"/>
 
 <br/>
 
-## ◈ &nbsp; A B O U T
+## 🧑‍💻 &nbsp; About Me
 
 <table>
 <tr>
-<td width="55%">
+<td valign="top" width="60%">
 
 I'm a **Computer Engineering student** from Gujarat, India — obsessed with the visual side of the web.
 
 I build interfaces that are fast, clean, and actually feel good to use. Currently expanding from pure frontend into full-stack with Node, Express, and MongoDB.
 
-Every project I ship teaches me something new. That's the whole point.
+Every project teaches me something. That's the whole point.
 
-- 🎯 &nbsp; **Focus** — Frontend engineering & clean UI
-- 🌱 &nbsp; **Learning** — Node.js · Express · MongoDB
-- 🤖 &nbsp; **Exploring** — AI tooling & automation
-- 💬 &nbsp; **Ask me about** — HTML/CSS/JS/React/Tailwind
-- 📬 &nbsp; **Reach me** — tulya.jain.cg@gmail.com
+<br/>
+
+| | |
+|---|---|
+| 🎯 **Focus** | Frontend Engineering & clean UI design |
+| 🌱 **Learning** | Node.js · Express · MongoDB |
+| 🤖 **Exploring** | AI tooling & automation |
+| 💬 **Ask me** | HTML · CSS · JS · React · Tailwind |
+| 📬 **Email** | tulya.jain.cg@gmail.com |
+| 📍 **Based in** | Gujarat, India 🇮🇳 |
 
 </td>
-<td width="45%" align="center">
+<td valign="top" width="40%" align="center">
 
-```
-  status   →  building
-  mood     →  focused
-  music    →  lo-fi beats
-  coffee   →  yes, always
-  bugs     →  currently fixing
-  commits  →  daily
-```
+<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:0d1117,100:161b27&text=status%3A+building&fontSize=18&fontColor=38BDF8&animation=fadeIn&desc=mood%3A+focused+%E2%9A%A1&descSize=14&descColor=64748B&descAlignY=65" width="280"/>
 
 </td>
 </tr>
@@ -52,144 +60,136 @@ Every project I ship teaches me something new. That's the whole point.
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:818CF8,100:38BDF8&height=2" width="100%"/>
+
+<br/>
+
+## 🛠️ &nbsp; Tech Stack
+
+<br/>
+
 <div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA5MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIyNSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM4MThjZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMyIgZmlsbD0idXJsKCNkKSIgcng9IjIiLz4KPC9zdmc+Cg==" width="900"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" height="48"/>
+
+<br/><br/>
+
+**Backend &nbsp;·&nbsp; Learning**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" height="48"/>
+
+<br/><br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,netlify,vercel,cpp&theme=dark" height="48"/>
+
 </div>
 
 <br/>
 
-## ◈ &nbsp; T E C H &nbsp; S T A C K
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:818CF8,100:38BDF8&height=2" width="100%"/>
+
+<br/>
+
+## 🚀 &nbsp; Featured Projects
+
+<br/>
 
 <div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjEyMCIgdmlld0JveD0iMCAwIDkwMCAxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnMiIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMGQxMTE3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzBhMGEwZiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSIxMjAiIGZpbGw9InVybCgjYmcyKSIgcng9IjEwIi8+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjkwMCIgaGVpZ2h0PSIxIiBmaWxsPSIjMWUyOTNiIi8+CiAgPHJlY3QgeD0iMCIgeT0iMTE5IiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjEiIGZpbGw9IiMxZTI5M2IiLz4KCiAgPCEtLSBTZWN0aW9uIGxhYmVsIC0tPgogIDx0ZXh0IHg9IjQ1MCIgeT0iMjgiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiMzOGJkZjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSI1IiBvcGFjaXR5PSIwLjgiPlRFQ0ggwrcgU1RBQ0s8L3RleHQ+CgogIDwhLS0gRnJvbnRlbmQgbGFiZWwgLS0+CiAgPHRleHQgeD0iMTYwIiB5PSI1NSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI5IiBmaWxsPSIjNjQ3NDhiIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+RlJPTlRFTkQ8L3RleHQ+CiAgPHJlY3QgeD0iMzAiIHk9IjYwIiB3aWR0aD0iMjYwIiBoZWlnaHQ9IjEiIGZpbGw9IiMxZTI5M2IiLz4KCiAgPCEtLSBTa2lsbCBwaWxscyBmcm9udGVuZCAtLT4KICA8ZyBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjExIiBmaWxsPSIjZTJlOGYwIj4KICAgIDxyZWN0IHg9IjMwIiB5PSI2OCIgd2lkdGg9IjU1IiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0iIzFlMjkzYiIgc3Ryb2tlPSIjRTM0RjI2IiBzdHJva2Utd2lkdGg9IjAuNSIvPgogICAgPHRleHQgeD0iNTciIHk9IjgzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjRTM0RjI2Ij5IVE1MPC90ZXh0PgoKICAgIDxyZWN0IHg9Ijk1IiB5PSI2OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0iIzFlMjkzYiIgc3Ryb2tlPSIjMTU3MkI2IiBzdHJva2Utd2lkdGg9IjAuNSIvPgogICAgPHRleHQgeD0iMTE5IiB5PSI4MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzE1NzJCNiI+Q1NTPC90ZXh0PgoKICAgIDxyZWN0IHg9IjE1MyIgeT0iNjgiIHdpZHRoPSI1MCIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9IiMxZTI5M2IiIHN0cm9rZT0iI0Y3REYxRSIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICAgIDx0ZXh0IHg9IjE3OCIgeT0iODMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNGN0RGMUUiPkpTPC90ZXh0PgoKICAgIDxyZWN0IHg9IjIxMyIgeT0iNjgiIHdpZHRoPSI1NSIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9IiMxZTI5M2IiIHN0cm9rZT0iIzYxREFGQiIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICAgIDx0ZXh0IHg9IjI0MCIgeT0iODMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM2MURBRkIiPlJlYWN0PC90ZXh0PgoKICAgIDxyZWN0IHg9IjI3OCIgeT0iNjgiIHdpZHRoPSI2MiIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9IiMxZTI5M2IiIHN0cm9rZT0iIzM4QkRGOCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICAgIDx0ZXh0IHg9IjMwOSIgeT0iODMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMzOEJERjgiPlRhaWx3aW5kPC90ZXh0PgogIDwvZz4KCiAgPCEtLSBCYWNrZW5kIGxhYmVsIC0tPgogIDx0ZXh0IHg9IjUyMCIgeT0iNTUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzY0NzQ4YiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPkJBQ0tFTkQ8L3RleHQ+CiAgPHJlY3QgeD0iMzcwIiB5PSI2MCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIxIiBmaWxsPSIjMWUyOTNiIi8+CgogIDxnIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTEiPgogICAgPHJlY3QgeD0iMzcwIiB5PSI2OCIgd2lkdGg9IjY1IiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0iIzFlMjkzYiIgc3Ryb2tlPSIjMzM5OTMzIiBzdHJva2Utd2lkdGg9IjAuNSIvPgogICAgPHRleHQgeD0iNDAyIiB5PSI4MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzMzOTkzMyI+Tm9kZS5qczwvdGV4dD4KCiAgICA8cmVjdCB4PSI0NDUiIHk9IjY4IiB3aWR0aD0iNjUiIGhlaWdodD0iMjIiIHJ4PSI0IiBmaWxsPSIjMWUyOTNiIiBzdHJva2U9IiM4ODg4ODgiIHN0cm9rZS13aWR0aD0iMC41Ii8+CiAgICA8dGV4dCB4PSI0NzciIHk9IjgzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjODg4ODg4Ij5FeHByZXNzPC90ZXh0PgoKICAgIDxyZWN0IHg9IjUyMCIgeT0iNjgiIHdpZHRoPSI3MCIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9IiMxZTI5M2IiIHN0cm9rZT0iIzQ3QTI0OCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICAgIDx0ZXh0IHg9IjU1NSIgeT0iODMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM0N0EyNDgiPk1vbmdvREI8L3RleHQ+CiAgPC9nPgoKICA8IS0tIFRvb2xzIGxhYmVsIC0tPgogIDx0ZXh0IHg9Ijc3NSIgeT0iNTUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzY0NzQ4YiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlRPT0xTPC90ZXh0PgogIDxyZWN0IHg9IjY5MCIgeT0iNjAiIHdpZHRoPSIxODUiIGhlaWdodD0iMSIgZmlsbD0iIzFlMjkzYiIvPgoKICA8ZyBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjExIj4KICAgIDxyZWN0IHg9IjY5MCIgeT0iNjgiIHdpZHRoPSI0NSIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9IiMxZTI5M2IiIHN0cm9rZT0iI0YwNTAzMiIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICAgIDx0ZXh0IHg9IjcxMiIgeT0iODMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNGMDUwMzIiPkdpdDwvdGV4dD4KCiAgICA8cmVjdCB4PSI3NDUiIHk9IjY4IiB3aWR0aD0iNjAiIGhlaWdodD0iMjIiIHJ4PSI0IiBmaWxsPSIjMWUyOTNiIiBzdHJva2U9IiMwMDdBQ0MiIHN0cm9rZS13aWR0aD0iMC41Ii8+CiAgICA8dGV4dCB4PSI3NzUiIHk9IjgzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjMDA3QUNDIj5WU0NvZGU8L3RleHQ+CgogICAgPHJlY3QgeD0iODE1IiB5PSI2OCIgd2lkdGg9IjU1IiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0iIzFlMjkzYiIgc3Ryb2tlPSIjRjI0RTFFIiBzdHJva2Utd2lkdGg9IjAuNSIvPgogICAgPHRleHQgeD0iODQyIiB5PSI4MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI0YyNEUxRSI+RmlnbWE8L3RleHQ+CiAgPC9nPgo8L3N2Zz4K" width="900"/>
+
+| &nbsp; | Project | Description | Live |
+|:---:|:--------|:-----------|:----:|
+| 🎬 | **[Prime Clone](https://prime-tulya.netlify.app)** | Amazon Prime Video landing page — responsive layout, component structure & visual alignment | [↗](https://prime-tulya.netlify.app) |
+| 🫧 | **[Aarke Clone](https://aarke-tulya.netlify.app)** | Minimal product page with sharp typography, whitespace-first design philosophy | [↗](https://aarke-tulya.netlify.app) |
+| 🪒 | **[Bevel Clone](https://bevel-tulya.netlify.app)** | Brand recreation focused on visual hierarchy and structured layout architecture | [↗](https://bevel-tulya.netlify.app) |
+| 👟 | **[Puma Clone](https://puma-tulya.netlify.app)** | E-commerce interface with product grid, responsive structure and modern UI | [↗](https://puma-tulya.netlify.app) |
+| 🥤 | **[Coca-Cola Clone](https://cococola-tulya.netlify.app)** | Bold brand landing page with dramatic visual sections and strong color usage | [↗](https://cococola-tulya.netlify.app) |
+
 </div>
 
 <br/>
 
-<div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA5MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIyNSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM4MThjZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMyIgZmlsbD0idXJsKCNkKSIgcng9IjIiLz4KPC9zdmc+Cg==" width="900"/>
-</div>
+> 💡 **All projects** built with `HTML` + `CSS` — focused on layout mastery, visual design, and responsive structure.
 
 <br/>
 
-## ◈ &nbsp; P R O J E C T S
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:818CF8,100:38BDF8&height=2" width="100%"/>
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ▸ &nbsp;Prime Clone
-Streaming platform interface recreation. Deep dive into responsive layout systems and visual component structure.
-
-**Stack** &nbsp;·&nbsp; `HTML` `CSS`  
-**Focus** &nbsp;·&nbsp; Layout · Responsiveness  
-**→** &nbsp;[prime-tulya.netlify.app](https://prime-tulya.netlify.app)
-
-</td>
-<td width="50%" valign="top">
-
-### ▸ &nbsp;Aarke Clone
-Minimal product landing page with sharp typographic control and generous negative space.
-
-**Stack** &nbsp;·&nbsp; `HTML` `CSS`  
-**Focus** &nbsp;·&nbsp; Typography · Whitespace  
-**→** &nbsp;[aarke-tulya.netlify.app](https://aarke-tulya.netlify.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ▸ &nbsp;Bevel Clone
-Brand identity recreation with strong visual hierarchy and structured layout architecture.
-
-**Stack** &nbsp;·&nbsp; `HTML` `CSS`  
-**Focus** &nbsp;·&nbsp; Visual Hierarchy · Structure  
-**→** &nbsp;[bevel-tulya.netlify.app](https://bevel-tulya.netlify.app)
-
-</td>
-<td width="50%" valign="top">
-
-### ▸ &nbsp;Puma Clone
-E-commerce product interface with grid-based layout and responsive design patterns.
-
-**Stack** &nbsp;·&nbsp; `HTML` `CSS`  
-**Focus** &nbsp;·&nbsp; Product Grid · Responsive  
-**→** &nbsp;[puma-tulya.netlify.app](https://puma-tulya.netlify.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ▸ &nbsp;Coca-Cola Clone
-Bold brand landing page with dramatic visual sections and high-impact design choices.
-
-**Stack** &nbsp;·&nbsp; `HTML` `CSS`  
-**Focus** &nbsp;·&nbsp; Bold Visuals · Branding  
-**→** &nbsp;[cococola-tulya.netlify.app](https://cococola-tulya.netlify.app)
-
-</td>
-<td width="50%" valign="top">
-
-### ▸ &nbsp;More Coming...
-Currently building full-stack projects with React + Node + MongoDB.
-
-**Status** &nbsp;·&nbsp; `In Progress`  
-**ETA** &nbsp;·&nbsp; Soon™
-
-</td>
-</tr>
-</table>
+## 📊 &nbsp; GitHub Stats
 
 <br/>
 
 <div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA5MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIyNSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM4MThjZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMyIgZmlsbD0idXJsKCNkKSIgcng9IjIiLz4KPC9zdmc+Cg==" width="900"/>
-</div>
 
-<br/>
-
-## ◈ &nbsp; G I T H U B &nbsp; S T A T S
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jaintulya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&hide=contribs" height="165" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaintulya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&ring_color=38bdf8" height="170" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaintulya&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="165" alt="langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaintulya&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=6" height="170" alt="Top Languages"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=jaintulya&hide_border=true&background=0d1117&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&sideLabels=64748b&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="streak"/>
+
+<img src="https://streak-stats.demolab.com?user=jaintulya&hide_border=true&background=0d1117&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&sideLabels=64748b&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="GitHub Streak" width="560"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA5MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIyNSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM4MThjZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiMzOGJkZjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMyIgZmlsbD0idXJsKCNkKSIgcng9IjIiLz4KPC9zdmc+Cg==" width="900"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaintulya&bg_color=0d1117&color=38bdf8&line=818cf8&point=e2e8f0&hide_border=true&area=true&area_color=38bdf820" width="100%" alt="Activity Graph"/>
+
 </div>
 
 <br/>
 
-## ◈ &nbsp; C O N T A C T
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:818CF8,100:38BDF8&height=2" width="100%"/>
+
+<br/>
+
+## 🏆 &nbsp; GitHub Trophies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0d1117)](https://www.linkedin.com/in/tulya-jain-b84827372/)
+<img src="https://github-profile-trophy.vercel.app/?username=jaintulya&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=8" width="100%" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:818CF8,100:38BDF8&height=2" width="100%"/>
+
+<br/>
+
+## 📬 &nbsp; Connect With Me
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulya-jain-b84827372/)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0d1117)](https://github.com/jaintulya)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaintulya)
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=0d1117)](mailto:tulya.jain.cg@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulya.jain.cg@gmail.com)
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=3000&color=475569&center=true&vCenter=true&width=500&lines=thanks+for+visiting+%2F%2F+let%27s+build+something" alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=4000&color=475569&center=true&vCenter=true&width=500&lines=thanks+for+visiting+%2F%2F+let%27s+build+something+great" width="500"/>
 
 </div>
 
 <br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0d1117,50:161b27,100:0d1117&fontColor=38BDF8" width="100%"/>
+
+</div>
