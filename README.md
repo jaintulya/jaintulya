@@ -32,22 +32,14 @@
 
 <br/>
 
-I'm a **Computer Engineering student** from Gujarat — building interfaces that are fast, clean, and feel great to use.
-
-Right now I'm going deep on frontend fundamentals while pushing into full-stack territory. Every project I ship teaches me something that no tutorial ever could.
-
-<br/>
-
-```yaml
-name        : Tulya Jain
-role        : Frontend Developer (full-stack: loading...)
-location    : Gujarat, India 🇮🇳
-education   : Computer Engineering Student
-focus       : Clean UI · Responsive Design · Real Projects
-learning    : Node.js · Express · MongoDB · REST APIs
-exploring   : AI Tools · Dev Automation · System Design
-available   : Collabs · Open Source · Cool Projects
-```
+- 🎓 &nbsp; Computer Engineering student from **Gujarat, India**
+- 💻 &nbsp; Passionate about building **modern web experiences** and clean UIs
+- 🌱 &nbsp; Currently mastering **Node.js · Express · MongoDB**
+- 🤖 &nbsp; Exploring **AI tools** to boost development workflows
+- 🚀 &nbsp; Focused on real-world projects and strong software fundamentals
+- 💬 &nbsp; Ask me about **HTML · CSS · JavaScript · React · Tailwind**
+- 📬 &nbsp; Reach me at **tulya.jain.cg@gmail.com**
+- ⚡ &nbsp; Fun fact — I turn ☕ coffee into clean, working UIs
 
 <br/>
 
@@ -61,34 +53,21 @@ available   : Collabs · Open Source · Cool Projects
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark&perline=5" height="52" />
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" height="52" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=5" height="52" />
+**Backend &nbsp;·&nbsp; Learning**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" height="52" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,netlify,vercel,cpp&theme=dark&perline=8" height="52" />
+**Tools & Platforms**
 
-</div>
-
-<br/>
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,netlify,vercel,cpp&theme=dark" height="52" />
 
 </div>
 
@@ -104,76 +83,71 @@ available   : Collabs · Open Source · Cool Projects
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top">
+
+<a href="https://prime-tulya.netlify.app">
+<img src="https://res.cloudinary.com/dob8kltpc/image/upload/v1770461010/prime-coverpic_uvsmt9.png" width="100%"/>
+</a>
 
 ### 🎬 &nbsp; Prime Clone
 Streaming platform UI inspired by Amazon Prime Video. Built for layout mastery and responsive structure.
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
 🔗 **[Live Demo →](https://prime-tulya.netlify.app)**
 
 </td>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top">
+
+<a href="https://aarke-tulya.netlify.app">
+<img src="https://res.cloudinary.com/dob8kltpc/image/upload/v1770461065/aarke-cover_ghgd98.png" width="100%"/>
+</a>
 
 ### 🫧 &nbsp; Aarke Clone
 Minimal product landing page. Sharp typography, generous whitespace, refined layout.
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 🔗 **[Live Demo →](https://aarke-tulya.netlify.app)**
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top">
+
+<a href="https://bevel-tulya.netlify.app">
+<img src="https://res.cloudinary.com/dob8kltpc/image/upload/v1770461010/bevel-cover_hqccgt.png" width="100%"/>
+</a>
 
 ### 🪒 &nbsp; Bevel Clone
 Brand identity recreation with strong visual hierarchy and clean layout architecture.
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
 🔗 **[Live Demo →](https://bevel-tulya.netlify.app)**
 
 </td>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top">
+
+<a href="https://puma-tulya.netlify.app">
+<img src="https://res.cloudinary.com/dob8kltpc/image/upload/v1771660286/puma_gcg0om.png" width="100%"/>
+</a>
 
 ### 👟 &nbsp; Puma Clone
 E-commerce product interface with grid-based layout and responsive design patterns.
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 🔗 **[Live Demo →](https://puma-tulya.netlify.app)**
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top">
+
+<a href="https://cococola-tulya.netlify.app">
+<img src="https://res.cloudinary.com/dob8kltpc/image/upload/v1771660281/coco_fjmccr.png" width="100%"/>
+</a>
 
 ### 🥤 &nbsp; Coca-Cola Clone
 Bold brand page with dramatic visual sections and high-impact color usage.
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
 🔗 **[Live Demo →](https://cococola-tulya.netlify.app)**
 
 </td>
-<td width="50%" valign="top" style="padding: 16px;">
-
-### ⚡ &nbsp; More Coming Soon
-Full-stack projects with React + Node.js + MongoDB in progress.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-⏳ **Status: In Progress**
-
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -191,6 +165,20 @@ Full-stack projects with React + Node.js + MongoDB in progress.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=jaintulya&hide_border=true&background=0d1117&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&sideLabels=64748b&dates=475569&currStreakNum=ffffff&sideNums=ffffff&stroke=1e293b" width="100%" />
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,49:38BDF8,51:818CF8,100:0d1117&height=1"/>
+
+<br/>
+
+## 🐍 &nbsp; Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jaintulya/jaintulya/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
