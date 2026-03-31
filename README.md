@@ -90,7 +90,7 @@
 
 <br/>
 
-## 🚀 &nbsp; Featured Projects
+/*## 🚀 &nbsp; Featured Projects
 
 <br/>
 
@@ -167,7 +167,7 @@ Bold brand page with dramatic visual sections and high-impact color usage.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,49:38BDF8,51:818CF8,100:0d1117&height=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,49:38BDF8,51:818CF8,100:0d1117&height=1"/>*/
 
 <br/>
 
