@@ -53,8 +53,10 @@
 </td>
 <td valign="top" width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
-
+<img 
+  src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+  style="width:300px; height:200px; object-fit:cover; display:block; border-radius:12px;"
+/>
 </td>
 </tr>
 </table>
