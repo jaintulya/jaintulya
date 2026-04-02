@@ -34,7 +34,7 @@
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="55%">
 
 - 🎓 &nbsp; Computer Engineering student from **Gujarat, India**
 - 💻 &nbsp; Passionate about building **modern web experiences** and clean UIs
@@ -46,9 +46,9 @@
 - ⚡ &nbsp; Fun fact — I turn ☕ coffee into clean, working UIs
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="top" width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaintulya&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=64748b&bg_color=0d1117" width="100%"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
 
 </td>
 </tr>
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaintulya&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117&color=38bdf8" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaintulya&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117&color=38bdf8" width="100%" />
 
 <br/>
 
@@ -99,7 +99,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jaintulya/jaintulya/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/jaintulya/jaintulya/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Game" />
 
 </div>
 
