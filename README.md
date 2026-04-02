@@ -87,7 +87,6 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=jaintulya&hide_border=true&background=0d1117&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&sideLabels=64748b&dates=475569&currStreakNum=ffffff&sideNums=ffffff&stroke=1e293b" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=jaintulya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8" width="48%" />
 
 </div>
 
