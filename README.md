@@ -20,7 +20,7 @@
 &nbsp;
 ![](https://img.shields.io/badge/Based%20In-Gujarat%2C%20India-f59e0b?style=flat-square&labelColor=0d1117)
 &nbsp;
-![Visitors](https://api.visitorbadge.io/api/visitors?path=jaintulya&label=PROFILE%20VIEWS&labelColor=%230d1117&countColor=%2338bdf8&style=flat-square)
+
 
 </div>
 
@@ -93,7 +93,6 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,49:38BDF8,51:818CF8,100:0d1117&height=2"/>
 
 ## 🐍 &nbsp; Contribution Snake
 
