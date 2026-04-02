@@ -1,32 +1,38 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0d1117,40:0f1923,80:0d1f2d,100:0d1117&text=Tulya%20Jain&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=38BDF8&strokeWidth=2&desc=Frontend%20Developer%20%E2%80%A2%20Gujarat%2C%20India&descSize=18&descColor=64748B&descAlignY=68"/>
+<!-- TOP WAVE — warm dark, NO text (text goes below as SVG for proper font) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0d0c0a,40:161410,80:1a1810,100:0d0c0a&section=header"/>
 
-</div>
+<!-- NAME — Cormorant Garamond light, gold, static -->
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=82&duration=1&pause=9999999&color=C9A84C&center=true&vCenter=true&width=700&height=100&lines=Tulya+Jain"/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2000&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+interfaces+that+feel+alive+%E2%9C%A6;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Tailwind+CSS;Currently+learning%3A+Node.js+%C2%B7+Express+%C2%B7+MongoDB;Always+shipping%2C+always+improving" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/Open%20To-Collaborations-38bdf8?style=flat-square&labelColor=0d1117)
-&nbsp;
-![](https://img.shields.io/badge/Status-Building-22c55e?style=flat-square&labelColor=0d1117)
-&nbsp;
-![](https://img.shields.io/badge/Based%20In-Gujarat%2C%20India-f59e0b?style=flat-square&labelColor=0d1117)
-&nbsp;
-
-
-</div>
+<!-- SUBTITLE — mono, warm muted, static -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=9999999&color=A09880&center=true&vCenter=true&width=600&height=26&lines=Full+Stack+Developer+%E2%80%A2+Gujarat%2C+India"/>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,49:38BDF8,51:818CF8,100:0d1117&height=2"/>
+<!-- THIN GOLD RULE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0c0a,49:8a6e2e,51:8a6e2e,100:0d0c0a&height=1"/>
+
+<br/><br/>
+
+<!-- CYCLING TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=2500&color=A09880&center=true&vCenter=true&width=680&lines=Building+interfaces+that+feel+alive;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Tailwind+CSS;Currently+learning%3A+Node.js+%C2%B7+Express+%C2%B7+MongoDB;Always+shipping%2C+always+improving"/>
+
+<br/><br/>
+
+<!-- BADGES — no label/value split, single color, warm dark bg -->
+<img src="https://img.shields.io/badge/Open%20To%20Collaborations-c9a84c?style=flat-square&labelColor=1a1810"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%E2%97%8F%20Building-22c55e?style=flat-square&labelColor=0d1a0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Gujarat%2C%20India-a09880?style=flat-square&labelColor=161410"/>
+
+<br/><br/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0c0a,49:8a6e2e,51:8a6e2e,100:0d0c0a&height=1"/>
 
 <br/>
 
@@ -56,7 +62,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,49:38BDF8,51:818CF8,100:0d1117&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0c0a,49:8a6e2e,51:8a6e2e,100:0d0c0a&height=1"/>
 
 <br/>
 
@@ -74,7 +80,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,49:38BDF8,51:818CF8,100:0d1117&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0c0a,49:8a6e2e,51:8a6e2e,100:0d0c0a&height=1"/>
 
 <br/>
 
@@ -82,16 +88,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaintulya&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117&color=38bdf8" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaintulya&bg_color=0d0c0a&color=c9a84c&line=8a6e2e&point=c9a84c&area=true&area_color=161410&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=jaintulya&hide_border=true&background=0d1117&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&sideLabels=64748b&dates=475569&currStreakNum=ffffff&sideNums=ffffff&stroke=1e293b" width="48%" />
+<img src="https://streak-stats.demolab.com?user=jaintulya&hide_border=true&background=0d0c0a&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=5a5548&dates=5a5548&currStreakNum=f0ece3&sideNums=f0ece3&stroke=1e1b16&border=1e1b16" width="48%" />
 
 </div>
 
 <br/>
-
 
 ## 🐍 &nbsp; Contribution Snake
 
@@ -103,7 +108,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,49:38BDF8,51:818CF8,100:0d1117&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0c0a,49:8a6e2e,51:8a6e2e,100:0d0c0a&height=1"/>
 
 <br/>
 
@@ -111,18 +116,18 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulya-jain-b84827372/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-c9a84c?style=for-the-badge&logo=linkedin&logoColor=c9a84c&labelColor=161410)](https://www.linkedin.com/in/tulya-jain-b84827372/)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaintulya)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-f0ece3?style=for-the-badge&logo=github&logoColor=f0ece3&labelColor=161410)](https://github.com/jaintulya)
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulya.jain.cg@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-a09880?style=for-the-badge&logo=gmail&logoColor=a09880&labelColor=161410)](mailto:tulya.jain.cg@gmail.com)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=5000&color=64748B&center=true&vCenter=true&width=460&lines=thanks+for+visiting+%2F%2F+let%27s+build+something+great" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=5000&color=5A5548&center=true&vCenter=true&width=460&lines=thanks+for+visiting+%2F%2F+let%27s+build+something+great" />
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0d1117,50:0f1923,100:0d1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0d0c0a,50:161410,100:0d0c0a"/>
