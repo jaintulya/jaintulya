@@ -11,12 +11,13 @@
 ![](https://img.shields.io/badge/Status-Building-22c55e?style=flat-square&labelColor=0d1117)
 &nbsp;
 ![](https://img.shields.io/badge/Based%20In-Gujarat%2C%20India-f59e0b?style=flat-square&labelColor=0d1117)
-&nbsp;
-![Visitors](https://api.visitorbadge.io/api/visitors?path=jaintulya&label=PROFILE%20VIEWS&labelColor=%230d1117&countColor=%2338bdf8&style=flat-square)
 
 </div>
 
 <br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,49:38BDF8,51:818CF8,100:0d1117&height=2"/>
+
 <br/>
 
 ## 🧑‍💻 &nbsp; About Me
@@ -37,7 +38,7 @@
 </td>
 <td valign="top" width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
 
 </td>
 </tr>
@@ -45,58 +46,76 @@
 
 <br/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,49:38BDF8,51:818CF8,100:0d1117&height=2"/>
+
+<br/>
+
 ## 🛠️ &nbsp; Tech Stack
 
 <div align="center">
 
-| Category | Tools |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,netlify,vercel,cpp&theme=dark" /> |
+**Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" height="45" />
+
+<br/>
+
+**Backend & Learning**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" height="45" />
+
+<br/>
+
+**Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,netlify,vercel,cpp&theme=dark" height="45" />
 
 </div>
 
 <br/>
 
-## 📊 &nbsp; GitHub Portfolio Dashboard
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,49:38BDF8,51:818CF8,100:0d1117&height=2"/>
+
+<br/>
+
+## 📈 &nbsp; GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaintulya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&border_radius=10" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaintulya&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=64748b&bg_color=0d1117&border_radius=10" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaintulya&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117&color=38bdf8" width="100%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=jaintulya&hide_border=true&background=0d1117&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&sideLabels=64748b&dates=475569&currStreakNum=ffffff&sideNums=ffffff&stroke=1e293b&border_radius=10" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jaintulya&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=64748b&bg_color=0d1117&border_radius=10" width="48%" alt="Coding Metrics" />
+<img src="https://github-readme-stats.vercel.app/api?username=jaintulya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8" width="48%" />
+<img src="https://streak-stats.demolab.com?user=jaintulya&hide_border=true&background=0d1117&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&sideLabels=64748b&dates=475569&currStreakNum=ffffff&sideNums=ffffff&stroke=1e293b" width="48%" />
 
 </div>
 
 <br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,49:38BDF8,51:818CF8,100:0d1117&height=2"/>
 
 ## 🐍 &nbsp; Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jaintulya/jaintulya/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/jaintulya/jaintulya/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
 
 </div>
 
 <br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,49:38BDF8,51:818CF8,100:0d1117&height=2"/>
+
 <br/>
 
 ## 📬 &nbsp; Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulya-jain-b84827372/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulya-jain-b84827372/)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaintulya)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaintulya)
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulya.jain.cg@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulya.jain.cg@gmail.com)
 
-<br/>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=5000&color=64748B&center=true&vCenter=true&width=460&lines=thanks+for+visiting+%2F%2F+let%27s+build+something+great" />
