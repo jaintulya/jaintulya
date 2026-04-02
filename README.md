@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- TOP WAVE — warm dark, NO text (text goes below as SVG for proper font) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0d0c0a,40:161410,80:1a1810,100:0d0c0a&section=header"/>
+
 
 <!-- NAME — Cormorant Garamond light, gold, static -->
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=82&duration=1&pause=9999999&color=C9A84C&center=true&vCenter=true&width=700&height=100&lines=Tulya+Jain"/>
