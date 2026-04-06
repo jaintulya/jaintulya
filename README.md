@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <!-- NAME — Cormorant Garamond light, gold, static -->
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=82&duration=1&pause=9999999&color=C9A84C&center=true&vCenter=true&width=700&height=100&lines=Tulya+Jain"/>
 
@@ -15,8 +13,8 @@
 
 <br/><br/>
 
-<!-- CYCLING TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=2500&color=A09880&center=true&vCenter=true&width=680&lines=Building+interfaces+that+feel+alive;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Tailwind+CSS;Currently+learning%3A+Node.js+%C2%B7+Express+%C2%B7+MongoDB;Always+shipping%2C+always+improving"/>
+<!-- CYCLING TYPING ANIMATION — Removed tech stack lines, added motivational quotes -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=2500&color=A09880&center=true&vCenter=true&width=680&lines=Always+shipping%2C+always+improving;Building+interfaces+that+feel+alive;Clean+code+%2B+clean+design+%3D+%E2%9D%A4%EF%B8%8F;Learning+something+new+every+day;Turning+coffee+into+%F0%9F%92%BB+magic"/>
 
 <br/><br/>
 
@@ -37,7 +35,7 @@
 
 ## 🧑‍💻 &nbsp; About Me
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="55%">
 
@@ -60,6 +58,24 @@
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0c0a,49:8a6e2e,51:8a6e2e,100:0d0c0a&height=1"/>
+
+<br/>
+
+## 📬 &nbsp; Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-c9a84c?style=for-the-badge&logo=linkedin&logoColor=c9a84c&labelColor=161410)](https://www.linkedin.com/in/tulya-jain-b84827372/)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-f0ece3?style=for-the-badge&logo=github&logoColor=f0ece3&labelColor=161410)](https://github.com/jaintulya)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-a09880?style=for-the-badge&logo=gmail&logoColor=a09880&labelColor=161410)](mailto:tulya.jain.cg@gmail.com)
+
+</div>
 
 <br/>
 
@@ -92,6 +108,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaintulya&bg_color=0d0c0a&color=c9a84c&line=8a6e2e&point=c9a84c&area=true&area_color=161410&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 
 <br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=jaintulya&hide_border=true&background=0d0c0a&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=5a5548&dates=5a5548&currStreakNum=f0ece3&sideNums=f0ece3&stroke=1e1b16&border=1e1b16" width="48%" />
 
@@ -113,17 +130,7 @@
 
 <br/>
 
-## 📬 &nbsp; Let's Connect
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-c9a84c?style=for-the-badge&logo=linkedin&logoColor=c9a84c&labelColor=161410)](https://www.linkedin.com/in/tulya-jain-b84827372/)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-f0ece3?style=for-the-badge&logo=github&logoColor=f0ece3&labelColor=161410)](https://github.com/jaintulya)
-&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-a09880?style=for-the-badge&logo=gmail&logoColor=a09880&labelColor=161410)](mailto:tulya.jain.cg@gmail.com)
-
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=5000&color=5A5548&center=true&vCenter=true&width=460&lines=thanks+for+visiting+%2F%2F+let%27s+build+something+great" />
 
