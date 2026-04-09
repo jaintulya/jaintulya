@@ -11,21 +11,22 @@
 <!-- THIN GOLD RULE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0c0a,49:8a6e2e,51:8a6e2e,100:0d0c0a&height=1"/>
 
-<br/><br/>
+<br/>
 
 <!-- CYCLING TYPING ANIMATION — Removed tech stack lines, added motivational quotes -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=2500&color=A09880&center=true&vCenter=true&width=680&lines=Always+shipping%2C+always+improving;Building+interfaces+that+feel+alive;Clean+code+%2B+clean+design+%3D+%E2%9D%A4%EF%B8%8F;Learning+something+new+every+day;Turning+coffee+into+%F0%9F%92%BB+magic"/>
 
-<br/><br/>
+<br/>
 
 <!-- BADGES — no label/value split, single color, warm dark bg -->
+ <img src="https://komarev.com/ghpvc/?username=jaintulya&label=Profile%20views&color=c9a84c&style=flat" alt="profile views" />
 <img src="https://img.shields.io/badge/Open%20To%20Collaborations-c9a84c?style=flat-square&labelColor=1a1810"/>
 &nbsp;
 <img src="https://img.shields.io/badge/%E2%97%8F%20Building-22c55e?style=flat-square&labelColor=0d1a0d"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Gujarat%2C%20India-a09880?style=flat-square&labelColor=161410"/>
 
-<br/><br/>
+<br/>
 
 </div>
 
