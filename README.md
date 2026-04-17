@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/Gujarat%2C%20India-a09880?style=flat-square&labelColor=161410"/>
 
 <br/>
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0c0a,49:8a6e2e,51:8a6e2e,100:0d0c0a&height=1"/>
