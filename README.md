@@ -44,7 +44,7 @@
 - 🌱 &nbsp; Currently mastering **Node.js · Express · MongoDB**
 - 🤖 &nbsp; Exploring **AI tools** to boost development workflows
 - 🚀 &nbsp; Focused on real-world projects and strong software fundamentals
-- 💬 &nbsp; Ask me about **HTML · CSS · JavaScript · React · Tailwind**
+- 💬 &nbsp; Ask me about **Node.js · MongoDB · Express · React · Tailwind**
 - 📬 &nbsp; Reach me at **tulya.jain.cg@gmail.com**
 - ⚡ &nbsp; Fun fact — I turn ☕ coffee into clean, working UIs
 
